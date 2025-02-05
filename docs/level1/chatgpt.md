@@ -49,20 +49,20 @@ Prompt engineering: https://platform.openai.com/docs/guides/prompt-engineering
 Imagine you're a scientist in California who needs to create a data set on water quality rights. You've downloaded pdfs from the [eWRIMS Database](https://www.waterboards.ca.gov/waterrights/water_issues/programs/ewrims/). But alas, all of the information you need are in the scanned pages of long pdfs. How do you quickly extract this information without it taking all day (or week) to do manually? Let's use ChatGPT to help us.
 
 There are multiple ways to go about this, but let's look at a summary of one pdf. This can help with a general overview of the content:  
-![image](https://github.com/user-attachments/assets/bac32db6-9692-4ecf-a338-f7246b2a5132)
+![image](https://github.com/user-attachments/assets/bac32db6-9692-4ecf-a338-f7246b2a5132)  
 There are more details ChatGPT spits out too.
 
-Next, let's make an output file of important inofrmation:
+Next, let's make an output file of important inofrmation:  
 ![image](https://github.com/user-attachments/assets/835fab5a-4fe9-43e9-bc11-a4cb57065944)
 
-Now, let's further refine the output to give more specifics that we want:
+Now, let's further refine the output to give more specifics that we want:  
 ![image](https://github.com/user-attachments/assets/80ae61f7-37c6-48cb-90eb-ad2ad76aff0d)
 
 Hooray! We have the columns we need. Now, you have a framework to use to extract this information from all your other pdfs.
 
-Eventually, you may run into this error with a free account and uploads, which is a limitation.
+Eventually, you may run into this error with a free account and uploads, which is a limitation.  
 ![image](https://github.com/user-attachments/assets/c2f67c25-d7e9-4483-9546-b9da90ae4aee)
 
 Instead of uploading pdfs, you may want to give ChatGPT all of the links to the documents instead.
 
-Note that ChatGPT **may be wrong!** It's always good to validtate the output. In this example, you may want to manually check pdf inputs along the way and refine your prompts accordingly. Play around with your prompts, and harness the power of large language models for good.
+Note that ChatGPT **may be wrong!** It's always good to validtate the output. In this example, you may want to manually check pdf inputs along the way and refine your prompts accordingly. Play around with your prompts, and harness the power of large language models for good. Happy prompting.
