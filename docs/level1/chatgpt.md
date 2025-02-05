@@ -14,4 +14,9 @@ You might remember the day back in Novemeber 2022 when our data world, as we kne
 
 
 ## What prompts should I use?
-As a "Generative Pre-Trained Transformer" (the GPT part of ChatGPT), the more more specific your prompt, the better.
+
+As a "Generative Pre-Trained Transformer" (the GPT part of ChatGPT), the more specific your prompt, the better. For example, the New York Times wrote about an example where ChatGPT outperformed doctors at diagnosing illness because ChatGPT used entire patient histories. Like in medicine, what if you want to use ecological data to make an important conservation decision? This introduces the importance of how you use prompts in large language models.
+[https://www.nytimes.com/2024/11/17/health/chatgpt-ai-doctors-diagnosis.html]
+![image](https://github.com/user-attachments/assets/c48ba71f-71bd-4fb2-a23d-9ff7ee5fa015)
+
+Imagine you need to create a data set on water quality. But alas, all of the numbers you need are currently sitting in a very long table in a very long pdf. How do you get these numbers? Let's use ChatGPT to help us:
