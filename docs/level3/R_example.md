@@ -95,7 +95,7 @@ Utilize the `ellmer` package to extract the structured data from the PDF text. W
 chat <- chat_openai(model = 'gpt-4o-mini')
 
 # Extract data based on the defined structure
-trends <- chat$extract_data(pdf_text, type = type_summary)
+trends <- chat$extract_data(pdf_text1, type = type_summary)
 
 # Display the extracted data
 print(trends)
