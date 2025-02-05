@@ -87,6 +87,5 @@ The `chat$extract_data` function processes the extracted PDF text and retrieves 
 ## Conclusion
 
 By following this approach, you can efficiently extract structured ecological data from scientific PDFs using LLMs, thereby enhancing your research workflow.
-```
 
 **Note:** Ensure that your PDF file is accessible and that your OpenAI API key is valid. This method leverages the capabilities of LLMs to automate data extraction, making the research process more efficient. 
