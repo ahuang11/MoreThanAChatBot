@@ -4,12 +4,16 @@
 
 ### ChatGPT  
 
-**Online Service**: [ChatGPT](https://chatgpt.com)  
+**Online Service**: [ChatGPT](https://chatgpt.com)
 
-#### GPT-4o  
+- Unlimited messages
+- General-purpose tasks
+- Simple Coding
 
-**Highlights**:  
-General-purpose tasks, coding, and multimodal applications.
+#### GPT-4o-mini
+
+- Cheap
+- Fast
 
 ---
 
@@ -17,21 +21,26 @@ General-purpose tasks, coding, and multimodal applications.
 
 **Online Service**: [Gemini](https://aistudio.google.com)  
 
-#### Gemini 2.0 Flash  
+#### Gemini 2.0 Flash
 
-**Highlights**:  
-Large-scale reasoning, multimodal tasks, and simultaneous handling of diverse data types.
+- Cheap
+- Fast
+- Long context
 
 ---
 
 ### Claude  
 
-**Online Service**: [Claude](https://claude.ai/)  
+**Online Service**: [Claude](https://claude.ai/)
+
+- Excels at coding
+- Extremely long context
+- Limited messages
 
 #### Claude 3.5 Sonnet  
 
-**Highlights**:  
-Coding, long-context tasks.
+- Fast
+- Long context
 
 ---
 
@@ -39,31 +48,27 @@ Coding, long-context tasks.
 
 **Online Service**: [Deepseek](https://chat.deepseek.com)  
 
+- Reasoning
+
 #### Deepseek R1  
 
-**Highlights**:  
-Reasoning, general capabilities, and transcription.  
+- Open-sourced model
 
 #### Deepseek V3  
-
-**Highlights**:  
-High-performance model competing with industry leaders like OpenAI’s GPT-4.
 
 ---
 
 ### Mistral  
 
-**Online Service**: [Mistral](https://chat.mistral.ai/)  
+**Online Service**: [Mistral](https://chat.mistral.ai/)
+
+- Unlimited messages
 
 #### Mistral 7B  
 
-**Highlights**:  
-Text generation, reasoning, and complex task handling.  
+- Open-sourced model
 
-#### Mistral Large  
-
-**Highlights**:  
-High reasoning capabilities, able to handle complex tasks and a large context window.
+#### Mistral Large
 
 ---
 
@@ -71,10 +76,7 @@ High reasoning capabilities, able to handle complex tasks and a large context wi
 
 **Online Service**: [Perplexity](https://www.perplexity.ai/)  
 
-#### Perplexity  
-
-**Highlights**:  
-Real-time information retrieval, PDF handling, and detailed responses.
+- Specializes in online search
 
 ---
 
@@ -82,10 +84,7 @@ Real-time information retrieval, PDF handling, and detailed responses.
 
 **Online Service**: [Groq](https://groq.com/)  
 
-#### Groq API  
-
-**Highlights**:  
-High-performance AI inference and hardware acceleration with open-source models.
+- Extremely fast
 
 ---
 
@@ -95,11 +94,7 @@ High-performance AI inference and hardware acceleration with open-source models.
 
 **Online Service**: [WebLLM](https://chat.webllm.ai/)  
 
-**Description**:  
-WebLLM provides access to large language models designed to handle various tasks such as text generation, summarization, and more, optimized for performance in web-based applications.  
-
-**Highlights**:  
-Optimized for web tasks, fast and efficient language model deployment.
+Quantized models that run in the browser.
 
 ---
 
@@ -107,8 +102,4 @@ Optimized for web tasks, fast and efficient language model deployment.
 
 **Online Service**: [Hugging Face Spaces](https://huggingface.co/spaces)  
 
-**Description**:  
-Hugging Face Spaces is a platform for hosting machine learning models and applications. It enables easy sharing and deployment of models and demos built by the community.  
-
-**Highlights**:  
 Community-driven, model sharing, easy deployment of ML applications.
