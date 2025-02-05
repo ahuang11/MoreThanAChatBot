@@ -2,7 +2,7 @@
 
 ## LLM Providers
 
-Are you an ecologist, conservation scientist, or environmental enthusiast who doesn't know where to start using AI in your work? Then, you've come to the right place! Below we’ve compiled lots of resources and examples for your persual. We hope these resources can help demystify your AI experience.
+Are you an ecologist, conservation scientist, or environmental enthusiast who doesn't know where to start using AI in your work? Then, you've come to the right place! Below we've compiled lots of resources and examples for your persual. We hope these resources can help demystify your AI experience.
 
 ### ChatGPT
 
@@ -16,28 +16,17 @@ Are you an ecologist, conservation scientist, or environmental enthusiast who do
 
 - 
 
-#### GPT-4o-mini
-
-- Cheap
-- Fast
-
----
-
 ### Gemini  
 
 **Online Service**: [Gemini](https://aistudio.google.com)  
 
-#### Gemini 2.0 Flash
-
-- Cheap
-- Fast
-- Long context
+- Excels at coding
+- Extremely long context
+- Limited messages
 
 **Case Studies**
 
 - 
-
----
 
 ### Claude  
 
@@ -51,13 +40,6 @@ Are you an ecologist, conservation scientist, or environmental enthusiast who do
 
 - 
 
-#### Claude 3.5 Sonnet  
-
-- Fast
-- Long context
-
----
-
 ### Deepseek  
 
 **Online Service**: [Deepseek](https://chat.deepseek.com)  
@@ -67,14 +49,6 @@ Are you an ecologist, conservation scientist, or environmental enthusiast who do
 **Case Studies**
 
 - 
-
-#### Deepseek R1  
-
-- Open-sourced model
-
-#### Deepseek V3  
-
----
 
 ### Mistral  
 
@@ -86,14 +60,6 @@ Are you an ecologist, conservation scientist, or environmental enthusiast who do
 
 - 
 
-#### Mistral 7B  
-
-- Open-sourced model
-
-#### Mistral Large
-
----
-
 ### Perplexity  
 
 **Online Service**: [Perplexity](https://www.perplexity.ai/)  
@@ -104,8 +70,6 @@ Are you an ecologist, conservation scientist, or environmental enthusiast who do
 
 - 
 
----
-
 ### Groq  
 
 **Online Service**: [Groq](https://groq.com/)  
@@ -115,8 +79,6 @@ Are you an ecologist, conservation scientist, or environmental enthusiast who do
 **Case Studies**
 
 - 
-
----
 
 ### LLM Hubs  
 
@@ -130,8 +92,6 @@ Quantized models that run in the browser.
 
 - 
 
----
-
 #### Hugging Face Spaces  
 
 **Online Service**: [Hugging Face Spaces](https://huggingface.co/spaces)  
@@ -140,4 +100,25 @@ Community-driven, model sharing, easy deployment of ML applications.
 
 **Case Studies**
 
-- 
+-
+
+## Models
+
+#### GPT-4o-mini
+- Cheap
+- Fast
+
+#### Gemini 2.0 Flash
+- Cheap
+- Fast
+- Long context
+
+#### Claude 3.5 Sonnet  
+- Fast
+- Long context
+
+#### Deepseek R1  
+- Open-source model
+
+#### Mistral 7B  
+- Open-source model
