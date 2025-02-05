@@ -1,4 +1,4 @@
-# Marvin
+# Marvin AI
 
 ```python
 import marvin
