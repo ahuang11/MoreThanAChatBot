@@ -1,0 +1,73 @@
+site_name: MoreThanAChatBot
+site_description: Resources for LLMs
+site_author: Team MoreThanAChatBot
+
+repo_url: https://github.com/ahuang11/MoreThanAChatBot
+repo_name: ahuang11/MoreThanAChatBot
+edit_uri: edit/main/docs/
+
+theme:
+    name: material
+    logo: 'assets/logo.svg'
+    features:
+        - announce.dismiss
+        - content.action.edit
+        - content.action.view
+        - content.code.annotate
+        - content.code.copy
+        - content.tooltips
+        - navigation.footer
+        - navigation.indexes
+        - navigation.sections
+        - navigation.top
+        - search.highlight
+        - search.suggest
+        - toc.follow
+    palette:
+        # Palette toggle for light mode
+        - media: "(prefers-color-scheme: light)"
+          scheme: default
+          primary: white
+          accent: blue
+          toggle:
+            icon: material/brightness-7
+            name: Switch to dark mode
+
+        # Palette toggle for dark mode
+        - media: "(prefers-color-scheme: dark)"
+          scheme: slate
+          primary: black
+          accent: blue
+          toggle:
+            icon: material/brightness-4
+            name: Switch to light mode
+
+markdown_extensions:
+    - toc:
+        permalink: true
+    - pymdownx.highlight:
+        anchor_linenums: true
+    - pymdownx.tasklist:
+        custom_checkbox: true
+    - pymdownx.inlinehilite
+    - pymdownx.snippets
+    - pymdownx.superfences
+    - admonition
+
+plugins:
+  - search
+  - mkdocstrings:
+      handlers:
+        python:
+          options:
+            docstring_style: google
+            show_if_no_docstring: true
+            merge_init_into_class: true
+            filters:
+            - "!^_"
+
+watch:
+    - docs
+
+nav:
+    - Home: index.md
