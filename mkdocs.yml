@@ -72,8 +72,8 @@ watch:
 nav:
   - Home: index.md
   - Level 1:
-      - ChatGPT: level1/chatgpt
+    - ChatGPT: level1/chatgpt
   - Level 2:
-      - Cursor: level2/cursor
-      - GitHub Copilot: level2/github_copilot
+    - Cursor: level2/cursor
+    - GitHub Copilot: level2/github_copilot
   - Level 3:
