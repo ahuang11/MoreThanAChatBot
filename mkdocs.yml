@@ -73,9 +73,9 @@ nav:
     - Home: index.md
     - Level 1: 
         - Overview: level1/index
-        - ChatGPT: level1/index
-        - Colab: level1/index
-        - Pitfalls of Gemini: level1/index
+        - ChatGPT: level1/chatgpt
+        - Colab: level1/colab
+        - Pitfalls of Gemini: level1/Pitfall_of_Gemini
     - Level 2:
         - Overview: level2/index
         - Cursor: level2/cursor
