@@ -76,14 +76,13 @@ nav:
         - Models: level1/models
         - Gateways: level1/gateways
         - Case Studies:
-            - ChatGPT: level1/chatgpt
-            - Colab: level1/colab
+            - Prompting with ChatGPT: level1/chatgpt
+            - Coding in Colab: level1/colab
             - Pitfalls of Gemini: level1/Pitfall_of_Gemini
             - Perplexity for Research: level1/Perplexity_for_research
     - Level 2:
         - Overview: level2/index
         - Cursor: level2/cursor
-        - GitHub Copilot: level2/github_copilot
     - Level 3:
         - Overview: level3/index
         - R: level3/R_example
