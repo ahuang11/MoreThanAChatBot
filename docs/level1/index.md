@@ -2,74 +2,113 @@
 
 ## LLM Providers
 
-The following is a list of LLM providers, along with their top models and highlights.
-
 ### ChatGPT  
 
-[ChatGPT](https://chatgpt.com)  
+**Online Service**: [ChatGPT](https://chatgpt.com)  
 
-- Top Models:  
-  - GPT-4o: A more advanced version of GPT-4, offering multimodal capabilities (text, images, audio, video) and enhanced reasoning.  
-- Highlights: General-purpose tasks, coding, and multimodal applications.
+#### GPT-4o  
+
+**Highlights**:  
+General-purpose tasks, coding, and multimodal applications.
+
+---
 
 ### Gemini  
 
-[Gemini](https://aistudio.google.com)  
+**Online Service**: [Gemini](https://aistudio.google.com)  
 
-- Top Models:
-  - Gemini 2.0 Flash: A fast, versatile multimodal model capable of handling large datasets such as videos, audio, and codebases.  
-- Highlights: Large-scale reasoning, multimodal tasks, and simultaneous handling of diverse data types.
+#### Gemini 2.0 Flash  
 
-### Claude Artifacts  
+**Highlights**:  
+Large-scale reasoning, multimodal tasks, and simultaneous handling of diverse data types.
 
-[Claude](https://claude.ai/)  
+---
 
-- Top Models:  
-  - Claude 3.5 Sonnet: Ideal for coding, creating websites and games with a single prompt, and generating complex diagrams.  
-- Highlights: Coding, long-context tasks.
+### Claude  
+
+**Online Service**: [Claude](https://claude.ai/)  
+
+#### Claude 3.5 Sonnet  
+
+**Highlights**:  
+Coding, long-context tasks.
+
+---
 
 ### Deepseek  
 
-[Deepseek](https://chat.deepseek.com)  
+**Online Service**: [Deepseek](https://chat.deepseek.com)  
 
-- Top Models:  
-  - Deepseek R1: Offers low-cost innovation with high accuracy, capable of transcribing text from imperfect images.  
-  - Deepseek V3: High-performance model competing with industry leaders like OpenAI’s GPT-4.  
-- Highlights: Reasoning, general capabilities, and transcription.
+#### Deepseek R1  
+
+**Highlights**:  
+Reasoning, general capabilities, and transcription.  
+
+#### Deepseek V3  
+
+**Highlights**:  
+High-performance model competing with industry leaders like OpenAI’s GPT-4.
+
+---
 
 ### Mistral  
 
-[Mistral](https://chat.mistral.ai/)  
+**Online Service**: [Mistral](https://chat.mistral.ai/)  
 
-- Top Models:  
-  - Mistral 7B: A small, cost-effective model designed for simpler tasks.  
-  - Mistral Large: A cutting-edge model with high reasoning capabilities, able to handle complex tasks and a large context window.  
-- Highlights: Text generation, reasoning, and complex task handling.
+#### Mistral 7B  
+
+**Highlights**:  
+Text generation, reasoning, and complex task handling.  
+
+#### Mistral Large  
+
+**Highlights**:  
+High reasoning capabilities, able to handle complex tasks and a large context window.
+
+---
 
 ### Perplexity  
 
-[Perplexity](https://www.perplexity.ai/)  
+**Online Service**: [Perplexity](https://www.perplexity.ai/)  
 
-- Top Models:  
-  - Perplexity: Best for real-time information retrieval and providing high-confidence answers, especially for PDF handling and research.  
-- Highlights: Real-time information retrieval, PDF handling, and detailed responses.
+#### Perplexity  
+
+**Highlights**:  
+Real-time information retrieval, PDF handling, and detailed responses.
+
+---
 
 ### Groq  
 
-[Groq](https://groq.com/)  
+**Online Service**: [Groq](https://groq.com/)  
 
-- Top Models:  
-  - Groq API: Provides API access to various models for high-performance inference and hardware acceleration.  
-- Highlights: High-performance AI inference and hardware acceleration with open-source models.
+#### Groq API  
 
-## LLM Hubs
+**Highlights**:  
+High-performance AI inference and hardware acceleration with open-source models.
 
+---
 
-### WebLLM  
+### LLM Hubs  
 
-[WebLLM](https://chat.webllm.ai/)
+#### WebLLM  
 
+**Online Service**: [WebLLM](https://chat.webllm.ai/)  
 
-### Hugging Face Spaces  
+**Description**:  
+WebLLM provides access to large language models designed to handle various tasks such as text generation, summarization, and more, optimized for performance in web-based applications.  
 
-[Hugging Face Spaces](https://huggingface.co/spaces)  
+**Highlights**:  
+Optimized for web tasks, fast and efficient language model deployment.
+
+---
+
+#### Hugging Face Spaces  
+
+**Online Service**: [Hugging Face Spaces](https://huggingface.co/spaces)  
+
+**Description**:  
+Hugging Face Spaces is a platform for hosting machine learning models and applications. It enables easy sharing and deployment of models and demos built by the community.  
+
+**Highlights**:  
+Community-driven, model sharing, easy deployment of ML applications.
