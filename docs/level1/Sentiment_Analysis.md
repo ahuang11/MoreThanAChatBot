@@ -6,6 +6,14 @@ This guide demonstrates how to use Google Colab and its AI-powered features to p
 
 ---
 
+## Open in Colab
+
+If you want to try out this notebook yourself, you can make a copy directly in Google Colab. Click the link below and then choose **"File" > "Save a copy in Drive"** in Colab to start editing your own version.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11VzM9X8B-DmgG305BGsjXhJWiEtaaEkS?usp=sharing)
+
+---
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
@@ -296,7 +304,7 @@ plt.plot(test_loss, label="Validation Loss")
 plt.legend()
 plt.show()
 ```
-
+![image](https://github.com/user-attachments/assets/ce6c04a7-5823-4f77-9f52-672f6d91e992)
 ---
 
 ## Improving the Model
@@ -362,14 +370,6 @@ for epoch in range(n_epochs):
         test_loss.append(loss_fn(test_pred, test_label).item())
 
     print("Loss", train_loss[-1], "Val Loss", test_loss[-1])
-
-print("Accuracy", accuracy(test_pred.detach().cpu(), test_label.detach().cpu()))
-print("F1", f1_score(test_pred.detach().cpu(), test_label.detach().cpu()))
-
-plt.plot(train_loss, label="Train Loss")
-plt.plot(test_loss, label="Validation Loss")
-plt.legend()
-plt.show()
 ```
 
 Finally, we print the final accuracy and F1 score to ensure that the performance metrics are visible in the notebook output:
@@ -383,7 +383,10 @@ plt.plot(test_loss, label="Validation Loss")
 plt.legend()
 plt.show()
 ```
+![image](https://github.com/user-attachments/assets/76ea3064-26b0-4703-8eab-f487dd8e55be)
 
+Accuracy tensor(0.8520)
+F1 tensor(0.9201)
 ---
 
 ## Conclusion and Next Steps
