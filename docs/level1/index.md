@@ -2,6 +2,7 @@
 
 ## LLM Providers
 
+Are you an ecologist, conservation scientist, or environmental enthusiast who doesn't know where to start using AI in your work? Then, you've come to the right place! Below we’ve compiled lots of resources and examples for your persual. We hope these resources can help demystify your AI experience.
 
 ### ChatGPT
 
