@@ -24,3 +24,12 @@
 3. What are the best Python libraries for time series visualization
 
 ![image](https://github.com/user-attachments/assets/99435a4e-f3d6-4a29-bd17-e841534ebb91)
+
+
+Resources for prompt engineering
+
+1. https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview
+
+2. https://www.coursera.org/google-learn/prompting-essentials?utm_source=google&utm_medium=institutions&utm_campaign=sou--google__med--organicsearch__cam--gwgsite__con--null__ter--null
+
+
