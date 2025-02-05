@@ -8,7 +8,7 @@ edit_uri: edit/main/docs/
 
 theme:
     name: material
-    logo: 'assets/logo.svg'
+    logo: 'assets/logo.png'
     features:
         - announce.dismiss
         - content.action.edit
