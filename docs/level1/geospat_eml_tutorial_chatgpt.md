@@ -52,11 +52,11 @@ The following method was followed for each experiment:
 
 **Table 1:** Geospatial file types accepted by AI Chatbot Agent
  
-|  | chatGPT-4o | Claude | DeepSeek | CoPilot |
+| File Type | **chatGPT-4o** | **Claude** | **DeepSeek** | **CoPilot** |
 |  | ----------- | ----------- | ----------- | ----------- |
-| Shapefile | Yes | No | No | No |
-| GeoJSON | Yes |  |  |  |			
-| TIFF |  |  |  |  |				
-| CSV |  |  |  |  |
+| *Shapefile* | Yes | No | No | No |
+| *GeoJSON* | Yes |  |  |  |			
+| *TIFF* |  |  |  |  |				
+| *CSV* |  |  |  |  |
 
 ### 
