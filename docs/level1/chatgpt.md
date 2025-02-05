@@ -26,7 +26,8 @@ Like in medicine, what if you want to use ecological data to make an important c
 ### Prompt Guides
 
 Prompt engineering overview: (https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
-Prompt engineering: (https://platform.openai.com/docs/guides/prompt-engineering)
+
+Prompt engineering: https://platform.openai.com/docs/guides/prompt-engineering
 
 ## Example: Extracting Water Rights form 100s of pdfs
 
