@@ -2,7 +2,7 @@
 
 ## What is ChatGPT?
 
-You might remember the day back in Novemeber 2022 when our data world, as we knew it, changed. News headlines appeared accouncing the launch of ChatGPT, generative artificial intelligence chatbot developed by OpenAI. GPT stands for "Generative Pre-Trained Transformer".
+You might remember the day back in Novemeber 2022 when our data world, as we knew it, changed. News headlines appeared announcing the launch of ChatGPT, a generative artificial intelligence chatbot developed by OpenAI.
 
 ### This is what the interface looks like:
 ![image](https://github.com/user-attachments/assets/031040e2-4dcb-4e4f-a04d-9213435c5995)
@@ -14,4 +14,4 @@ You might remember the day back in Novemeber 2022 when our data world, as we kne
 
 
 ## What prompts should I use?
-
+As a "Generative Pre-Trained Transformer" (the GPT part of ChatGPT), the more more specific your prompt, the better.
