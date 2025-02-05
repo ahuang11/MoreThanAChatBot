@@ -41,13 +41,13 @@ Replace `"your-secret-key"` with your actual OpenAI API key.
 We've assembled freely-available PDFs for this example [here](https://github.com/ahuang11/MoreThanAChatBot/tree/main/docs/level3/pdf). Download them and save them to a folder called "pdf".
 ```r
 # Download PDFs
-download.file("https://github.com/ahuang11/MoreThanAChatBot/blob/main/docs/level3/pdf/paper1.pdf",
+download.file("https://raw.githubusercontent.com/ahuang11/MoreThanAChatBot/main/docs/level3/pdf/paper1.pdf",
   "pdf/paper1.pdf", mode = "wb")
-download.file("https://github.com/ahuang11/MoreThanAChatBot/blob/main/docs/level3/pdf/paper2.pdf",
+download.file("https://raw.githubusercontent.com/ahuang11/MoreThanAChatBot/main/docs/level3/pdf/paper2.pdf",
   "pdf/paper2.pdf", mode = "wb")
-download.file("https://github.com/ahuang11/MoreThanAChatBot/blob/main/docs/level3/pdf/paper3.pdf",
+download.file("https://raw.githubusercontent.com/ahuang11/MoreThanAChatBot/main/docs/level3/pdf/paper3.pdf",
   "pdf/paper3.pdf", mode = "wb")
-download.file("https://github.com/ahuang11/MoreThanAChatBot/blob/main/docs/level3/pdf/paper4.pdf",
+download.file("https://raw.githubusercontent.com/ahuang11/MoreThanAChatBot/main/docs/level3/pdf/paper4.pdf",
   "pdf/paper4.pdf", mode = "wb")
 
 ```
