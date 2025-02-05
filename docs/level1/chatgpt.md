@@ -18,10 +18,15 @@ You might remember the day back in Novemeber 2022 when our data world, as we kne
 As a "Generative Pre-Trained Transformer" (the GPT part of ChatGPT), the more specific your prompt, the better.
 
 For example, the ***New York Times*** wrote about an example where ChatGPT outperformed doctors at diagnosing illness because ChatGPT used entire patient histories.
-[https://www.nytimes.com/2024/11/17/health/chatgpt-ai-doctors-diagnosis.html]
+(https://www.nytimes.com/2024/11/17/health/chatgpt-ai-doctors-diagnosis.html)
 ![image](https://github.com/user-attachments/assets/c48ba71f-71bd-4fb2-a23d-9ff7ee5fa015)
 
 Like in medicine, what if you want to use ecological data to make an important conservation decision? This introduces the importance of how you use prompts in large language models.
+
+### Prompt Guides
+
+Prompt engineering overview: (https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
+Prompt engineering: (https://platform.openai.com/docs/guides/prompt-engineering)
 
 ## Example: Extracting Water Rights form 100s of pdfs
 
