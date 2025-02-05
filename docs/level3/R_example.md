@@ -14,6 +14,7 @@ Ensure you have the following R packages installed:
 Install them using:
 
 ```r
+# Install packages
 install.packages("ellmer")
 install.packages("pdftools")
 install.packages("purrr")
@@ -24,6 +25,7 @@ install.packages("purrr")
 Begin by loading the necessary libraries and setting your OpenAI API key:
 
 ```r
+# Load packages
 library(ellmer)
 library(pdftools)
 library(purrr)
