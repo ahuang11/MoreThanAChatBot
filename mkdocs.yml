@@ -79,7 +79,7 @@ nav:
             - Prompting with ChatGPT: level1/chatgpt
             - Coding in Colab: level1/colab
             - Pitfalls of Gemini: level1/Pitfall_of_Gemini
-            - Perplexity for Research: level1/Perplexity_for_research
+            - Search using Perplexity: level1/Perplexity_for_research
     - Level 2:
         - Overview: level2/index
         - Cursor: level2/cursor
