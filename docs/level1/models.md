@@ -4,7 +4,7 @@
 
 ### GPT-4-mini
 
-Provider: [OpenAI ChatGPT](providers/#openai-chatgpt)
+Provider: [OpenAI ChatGPT](../providers/#openai-chatgpt)
 
 General purpose, decent context length, cheap, and fast.
 
@@ -17,7 +17,7 @@ Good for:
 
 ### Gemini 1.5 Deep Research
 
-Provider: [Google Gemini](providers/#google-gemini)
+Provider: [Google Gemini](../providers/#google-gemini)
 
 General purpose, very long context length, but requires a paid subscription.
 
@@ -30,7 +30,7 @@ Good for:
 
 ### Gemini 2.0 Flash
 
-Provider: [Google Gemini](providers/#google-gemini)
+Provider: [Google Gemini](../providers/#google-gemini)
 
 General purpose, very long context length, free (at the current moment), and extremely fast.
 
@@ -43,7 +43,7 @@ Good for:
 
 ### Claude 3.5 Sonnet
 
-Provider: [Anthropic Claude](providers/#anthropic-claude)
+Provider: [Anthropic Claude](../providers/#anthropic-claude)
 
 Excels at coding, long context length, but limited messages.
 
@@ -58,7 +58,7 @@ Good for:
 
 ### Deepseek R1 70B
 
-Provider: [Deepseek](providers/#deepseek)
+Provider: [Deepseek](../providers/#deepseek)
 
 Good at reasoning, long context length, and free.
 
@@ -71,7 +71,7 @@ Good for:
 
 ### Qwen 2.5 Coder 7B
 
-Provider: [Qwen](providers/#qwen)
+Provider: [Qwen](../providers/#qwen)
 
 Good at coding, decent context length.
 
@@ -84,7 +84,7 @@ Good for:
 
 ### Mistral Small 24B
 
-Provider: [Mistral AI](providers/#mistral-ai)
+Provider: [Mistral AI](../providers/#mistral-ai)
 
 Good at reasoning, decent context length.
 
