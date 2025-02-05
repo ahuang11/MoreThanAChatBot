@@ -17,7 +17,7 @@ To use CHatGPT, create an account, and let's dive into some conservation example
 
 As a "Generative Pre-Trained Transformer" (the GPT part of ChatGPT), the more specific your prompt, the better.
 
-For example, the ***New York Times*** wrote about an example where ChatGPT outperformed doctors at diagnosing illness because ChatGPT used entire patient histories. https://www.nytimes.com/2024/11/17/health/chatgpt-ai-doctors-diagnosis.html
+For example, the ***New York Times*** wrote about an example where ChatGPT outperformed doctors at diagnosing illness because ChatGPT used entire patient histories. [https://www.nytimes.com/2024/11/17/health/chatgpt-ai-doctors-diagnosis.html](https://www.nytimes.com/2024/11/17/health/chatgpt-ai-doctors-diagnosis.html)
 ![image](https://github.com/user-attachments/assets/c48ba71f-71bd-4fb2-a23d-9ff7ee5fa015)
 
 Like in medicine, what if you want to use ecological data to make an important conservation decision?
@@ -35,10 +35,10 @@ Like in medicine, what if you want to use ecological data to make an important c
 
 Check out these guides for promting large language models:
 
-Prompt engineering overview: https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview  
+Prompt engineering overview: [https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)  
 ![image](https://github.com/user-attachments/assets/2c8fa5bc-82a4-455e-bcc3-3378e5111c12)
 
-Prompt engineering: https://platform.openai.com/docs/guides/prompt-engineering  
+Prompt engineering: [https://platform.openai.com/docs/guides/prompt-engineering](https://platform.openai.com/docs/guides/prompt-engineering)  
 ![image](https://github.com/user-attachments/assets/dd793f5b-b8bb-4b8f-828d-63226d36d268)
 
 
