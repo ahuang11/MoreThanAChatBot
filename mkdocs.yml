@@ -74,6 +74,7 @@ nav:
     - Level 1: 
         - Providers: level1/providers
         - Models: level1/models
+        - Gateways: level1/gateways
         - Case Studies:
             - ChatGPT: level1/chatgpt
             - Colab: level1/colab
