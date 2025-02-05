@@ -14,6 +14,8 @@ Models: [GPT-4o-Mini](../models/#gpt-4o-mini)
 
 Google's integrated AI system featuring Gemini 1.5 Pro (2024), which processes up to 1.4M words or 22hrs of audio. Gemini Advanced offers Deep Research and trip planning using Google ecosystem data. Features 30fps video analysis and code execution that reduced errors by 40% in benchmarks.
 
+[Google AI Studio](https://aistudio.google.com/live) additionally offers real-time streaming and video analysis. This allows the model to see your screen and provide voice-activated, real-time feedback and suggestions to help you perform tasks.
+
 Models: [Gemini 1.5 Deep Research](../models/#gemini-15-deep-research), [Gemini 2.0 Flash](../models/#gemini-20-flash)
 
 **Online Service**: [Gemini](https://gemini.google.com)
