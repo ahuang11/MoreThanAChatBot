@@ -4,13 +4,13 @@
 
 You might remember the day back in Novemeber 2022 when our data world, as we knew it, changed. News headlines appeared announcing the launch of ChatGPT, a generative artificial intelligence chatbot developed by OpenAI.
 
-### This is what the interface looks like:
+### ChatGPT Interface:
 ![image](https://github.com/user-attachments/assets/031040e2-4dcb-4e4f-a04d-9213435c5995)
 
-### Want to learn more? Let's ask ChatGPT how it works:
+### How does ChatGPT work?
 ![image](https://github.com/user-attachments/assets/19c70f63-5890-4dd3-b251-5635d4c0303c)
 
-### To use CHatGPT, create an account, and let's dive into some conservation examples!
+To use CHatGPT, create an account, and let's dive into some conservation examples!
 
 
 ## What prompts should I use?
@@ -31,7 +31,9 @@ Like in medicine, what if you want to use ecological data to make an important c
 - Better:  
   ![image](https://github.com/user-attachments/assets/7b3035a2-c228-4e4e-a5c9-cac52fa6897b)
 
-### Check out these guides for promting large language models:
+### Prompt Guides
+
+Check out these guides for promting large language models:
 
 Prompt engineering overview: https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview  
 ![image](https://github.com/user-attachments/assets/2c8fa5bc-82a4-455e-bcc3-3378e5111c12)
@@ -40,9 +42,17 @@ Prompt engineering: https://platform.openai.com/docs/guides/prompt-engineering
 ![image](https://github.com/user-attachments/assets/dd793f5b-b8bb-4b8f-828d-63226d36d268)
 
 
-## Environmental Example: Extracting Water Rights from 100s of pdfs
+## Environmental Example
+
+**Extracting Water Rights from 100s of pdfs**
 
 Imagine you're a scientist in California who needs to create a data set on water quality rights. You've downloaded pdfs from the [eWRIMS Database](https://www.waterboards.ca.gov/waterrights/water_issues/programs/ewrims/). But alas, all of the information you need are in the scanned pages of long pdfs. How do you quickly extract this information without it taking all day (or week) to do manually? Let's use ChatGPT to help us.
 
+There are multiple ways to go about this, but let's look at a summary of one pdf. This can help with a general overview of the content:  
+![image](https://github.com/user-attachments/assets/bac32db6-9692-4ecf-a338-f7246b2a5132)
+There are more details ChatGPT spits out too.
+
+Next, let's make an output file of important inofrmation:
+![image](https://github.com/user-attachments/assets/835fab5a-4fe9-43e9-bc11-a4cb57065944)
 
 
