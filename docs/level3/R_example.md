@@ -36,13 +36,17 @@ Replace `"your-secret-key"` with your actual OpenAI API key.
 
 ## Downloading the PDFs
 
-We've assembled freely-available PDFs for this example [here]. Download them and save them to a folder called "pdf".
+We've assembled freely-available PDFs for this example [here](https://github.com/ahuang11/MoreThanAChatBot/tree/main/docs/level3/pdf). Download them and save them to a folder called "pdf".
 ```r
 
-download.file("", "pdf/paper1" mode = "wb")
-download.file("", "pdf/paper2" mode = "wb")
-download.file("", "pdf/paper3" mode = "wb")
-download.file("", "pdf/paper4" mode = "wb")
+download.file("https://github.com/ahuang11/MoreThanAChatBot/blob/main/docs/level3/pdf/paper1.pdf",
+  "pdf/paper1" mode = "wb")
+download.file("https://github.com/ahuang11/MoreThanAChatBot/blob/main/docs/level3/pdf/paper2.pdf",
+  "pdf/paper2" mode = "wb")
+download.file("https://github.com/ahuang11/MoreThanAChatBot/blob/main/docs/level3/pdf/paper3.pdf",
+  "pdf/paper3" mode = "wb")
+download.file("https://github.com/ahuang11/MoreThanAChatBot/blob/main/docs/level3/pdf/paper4.pdf",
+  "pdf/paper4" mode = "wb")
 
 ```
 
@@ -82,7 +86,7 @@ This structure specifies that for each species mentioned in the paper, we want t
 
 ## Extracting Trends Using the LLM
 
-Utilize the `ellmer` package to extract the structured data from the PDF text. We use the OpenAI gpt-4o-mini model in the example below, but you can review different [LLM providers] to choose a model most appropriate for your use:
+Utilize the `ellmer` package to extract the structured data from the PDF text. We use the OpenAI gpt-4o-mini model in the example below, but you can review different [LLM providers](https://github.com/ahuang11/MoreThanAChatBot/blob/main/docs/level1/providers.md) to choose a model most appropriate for your use:
 
 ```r
 # Initialize the chat interface with the specified model
