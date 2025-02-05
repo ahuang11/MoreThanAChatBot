@@ -26,10 +26,10 @@ Like in medicine, what if you want to use ecological data to make an important c
 **This introduces the importance of how you use prompts in large language models.**
 
 ### Some examples
-- Poor:
+- Poor:  
   ![image](https://github.com/user-attachments/assets/7cf46749-7780-4938-8541-7a48caa749ca)
 
-- Better:
+- Better:  
   ![image](https://github.com/user-attachments/assets/7b3035a2-c228-4e4e-a5c9-cac52fa6897b)
 
 ### Check out these guides for promting large language models:
@@ -41,9 +41,9 @@ Prompt engineering: https://platform.openai.com/docs/guides/prompt-engineering
 ![image](https://github.com/user-attachments/assets/dd793f5b-b8bb-4b8f-828d-63226d36d268)
 
 
-## Environmental Example: Extracting Water Rights form 100s of pdfs
+## Environmental Example: Extracting Water Rights from 100s of pdfs
 
-Imagine you need to create a data set on water quality rights. But alas, all of the information you need are in scanned pages of long pdfs. How do you quickly extract this information without it taking all day (or week) to do manually? Let's use ChatGPT to help us.
+Imagine you're a scientist in California who needs to create a data set on water quality rights. You've downloaded pdfs from the [eWRIMS Database](https://www.waterboards.ca.gov/waterrights/water_issues/programs/ewrims/). But alas, all of the information you need are in the scanned pages of long pdfs. How do you quickly extract this information without it taking all day (or week) to do manually? Let's use ChatGPT to help us.
 
 
 
