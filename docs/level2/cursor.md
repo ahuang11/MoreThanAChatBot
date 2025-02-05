@@ -26,7 +26,7 @@ So in even simpler terms for an introduction, cursor helps write code more effic
 
 #### Pros and Cons in a nutshell
 
-** Cursor is good at ... **
+**Cursor is good at ...**
 
 - All things that a browser-based AI coding tool can do
 Example: explaining concepts and annotating code.
@@ -42,7 +42,7 @@ Example: the user can ask cursor if there is potential inconsistencies across sc
 - Improve coding efficiency through features such as code autocompletion
 
 
-** Cursor still needs you on these tasks ... **
+**Cursor still needs you on these tasks ...**
 
 - Have good knowledge on what you want to achieve (domain knowledge + clarity on the analytical task)
 
@@ -62,7 +62,7 @@ Cursor has a comprehensive overview of key features on its [webpage](https://www
 - Chat
 After opening cursor, the user can access "chat", "composer", and "bug finder" functions. To access these, click the very top right button and then these functions will appear on the right tab.
 
-[test](cursor-snapshot/fig1.png)
+![test](cursor-snapshot/fig1.png)
 
 "chat" is a great function to interact with cursor to ask questions and get some answers in general. It does not make changes to your code directly, but it can be a good starting point to explore different options.
 
