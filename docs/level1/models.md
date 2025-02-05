@@ -2,6 +2,8 @@
 
 ## Proprietary Models
 
+Proprietary models are developed and maintained by specific companies or organizations. They often come with advanced features, optimizations, and support, but may require a subscription or usage fees.
+
 ### GPT-4o-Mini
 
 Provider: [OpenAI ChatGPT](../providers/#openai-chatgpt)
@@ -55,6 +57,18 @@ Good for:
 4. Implementation of novel research algorithms
 
 ## Open Source Models
+
+Open source models make their weights, architecture, and training code publicly available. They can be run locally on personal hardware or deployed to cloud infrastructure. Most implementations use techniques like quantization to reduce model size and memory requirements. Common formats include GGUF (formerly GGML) and AWQ for efficient deployment.
+
+Advantages:
+
+- Complete control over model deployment and inference
+- Ability to fine-tune or modify the model for specific use cases
+- No usage fees beyond infrastructure costs
+- Privacy benefits since data stays local
+- Community-driven improvements and customizations
+
+A way to use these models locally is through [Hugging Face](https://huggingface.co/), [LMStudio](https://lmstudio.ai/), or [OLlama](https://ollama.com/).
 
 ### Deepseek R1 70B
 
