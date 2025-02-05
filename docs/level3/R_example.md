@@ -1,7 +1,8 @@
 # Using LLMs in R Code
 
 ## Use Case
-We'll use the [ellmer package](https://ellmer.tidyverse.org/) to extract information from PDFs and generate a table. The table will summarize population trends of species based on the literature. This example uses the LLM feature of [structured data](https://ellmer.tidyverse.org/articles/structured-data.html).  
+
+Here, we will use an example of structured data extraction to illustrate integrating LLMs into a custom end-to-end pipeline. In ecological research, extracting specific data from scientific papers can be time-consuming. Leveraging Large Language Models (LLMs) can streamline this process. We'll use the [ellmer package](https://ellmer.tidyverse.org/) to extract information from PDFs and generate a table. The table will summarize population trends of species based on the literature. This example uses the LLM feature of [structured data](https://ellmer.tidyverse.org/articles/structured-data.html). While it is possible to complete this task using a browser-based chatbot, including the LLM in your code with your prompt makes your work more reproducible.
 
 ## Prerequisites
 
