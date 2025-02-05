@@ -1,6 +1,5 @@
 # ChatGPT
 
-
 ## What is ChatGPT?
 
 You might remember the day back in Novemeber 2022 when our data world, as we knew it, changed. News headlines appeared announcing the launch of ChatGPT, a generative artificial intelligence chatbot developed by OpenAI.
