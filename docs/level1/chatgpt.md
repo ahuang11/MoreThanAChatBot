@@ -23,7 +23,7 @@ For example, the ***New York Times*** wrote about an example where ChatGPT outpe
 
 Like in medicine, what if you want to use ecological data to make an important conservation decision?
 
-This introduces the importance of how you use prompts in large language models.
+**This introduces the importance of how you use prompts in large language models.**
 
 ### Some examples
 - Poor:
@@ -43,5 +43,7 @@ Prompt engineering: https://platform.openai.com/docs/guides/prompt-engineering
 
 ## Environmental Example: Extracting Water Rights form 100s of pdfs
 
-Imagine you need to create a data set on water quality rights. But alas, all of the information you need are in scanned pages of long pdfs. How do you quickly extract this information without it taking all day (or week) while manually entering it into Excel? Let's use ChatGPT to help us.
+Imagine you need to create a data set on water quality rights. But alas, all of the information you need are in scanned pages of long pdfs. How do you quickly extract this information without it taking all day (or week) to do manually? Let's use ChatGPT to help us.
+
+
 
