@@ -25,10 +25,10 @@ Like in medicine, what if you want to use ecological data to make an important c
 **This introduces the importance of how you use prompts in large language models.**
 
 ### Some examples
-- Poor:  
+- **Poor:**  
   ![image](https://github.com/user-attachments/assets/7cf46749-7780-4938-8541-7a48caa749ca)
 
-- Better:  
+- **Better:**  
   ![image](https://github.com/user-attachments/assets/7b3035a2-c228-4e4e-a5c9-cac52fa6897b)
 
 ### Prompt Guides
