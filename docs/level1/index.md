@@ -12,7 +12,9 @@ Are you an ecologist, conservation scientist, or environmental enthusiast who do
 - General-purpose tasks
 - Simple Coding
 
-[Examples](chatgpt.md)
+**Case Studies**
+
+- 
 
 #### GPT-4o-mini
 
@@ -31,6 +33,10 @@ Are you an ecologist, conservation scientist, or environmental enthusiast who do
 - Fast
 - Long context
 
+**Case Studies**
+
+- 
+
 ---
 
 ### Claude  
@@ -40,6 +46,10 @@ Are you an ecologist, conservation scientist, or environmental enthusiast who do
 - Excels at coding
 - Extremely long context
 - Limited messages
+
+**Case Studies**
+
+- 
 
 #### Claude 3.5 Sonnet  
 
@@ -53,6 +63,10 @@ Are you an ecologist, conservation scientist, or environmental enthusiast who do
 **Online Service**: [Deepseek](https://chat.deepseek.com)  
 
 - Reasoning
+
+**Case Studies**
+
+- 
 
 #### Deepseek R1  
 
@@ -68,6 +82,10 @@ Are you an ecologist, conservation scientist, or environmental enthusiast who do
 
 - Unlimited messages
 
+**Case Studies**
+
+- 
+
 #### Mistral 7B  
 
 - Open-sourced model
@@ -82,6 +100,10 @@ Are you an ecologist, conservation scientist, or environmental enthusiast who do
 
 - Specializes in online search
 
+**Case Studies**
+
+- 
+
 ---
 
 ### Groq  
@@ -89,6 +111,10 @@ Are you an ecologist, conservation scientist, or environmental enthusiast who do
 **Online Service**: [Groq](https://groq.com/)  
 
 - Extremely fast
+
+**Case Studies**
+
+- 
 
 ---
 
@@ -100,6 +126,10 @@ Are you an ecologist, conservation scientist, or environmental enthusiast who do
 
 Quantized models that run in the browser.
 
+**Case Studies**
+
+- 
+
 ---
 
 #### Hugging Face Spaces  
@@ -107,3 +137,7 @@ Quantized models that run in the browser.
 **Online Service**: [Hugging Face Spaces](https://huggingface.co/spaces)  
 
 Community-driven, model sharing, easy deployment of ML applications.
+
+**Case Studies**
+
+- 
