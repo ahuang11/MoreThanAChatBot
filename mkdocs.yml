@@ -70,10 +70,13 @@ watch:
     - docs
 
 nav:
-  - Home: index.md
-  - Level 1:
-    - ChatGPT: level1/chatgpt
-  - Level 2:
-    - Cursor: level2/cursor
-    - GitHub Copilot: level2/github_copilot
-  - Level 3:
+    - Home: index.md
+    - Level 1: 
+        - Overview: level1/index
+        - ChatGPT: level1/chatgpt
+    - Level 2:
+        - Overview: level2/index
+        - Cursor: level2/cursor
+        - GitHub Copilot: level2/github_copilot
+    - Level 3:
+        - Overview: level3/index
