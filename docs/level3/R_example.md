@@ -134,7 +134,7 @@ type_summary <- type_array("An array containing a row for every species for whic
 
 ## Extracting Threats Using the LLM
 
-We'll repeat a similar process to above, but try a system prompt to initiate the model.
+We'll repeat a similar process to above, but try a system prompt to initiate the model. We'll also iterate the call to the LLM over multiple elements of the list containing PDF text using the `purrr` package.
 
 ```r
 
