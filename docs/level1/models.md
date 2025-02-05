@@ -2,7 +2,7 @@
 
 ## Proprietary Models
 
-### GPT-4-mini
+### GPT-4o-Mini
 
 Provider: [OpenAI ChatGPT](../providers/#openai-chatgpt)
 

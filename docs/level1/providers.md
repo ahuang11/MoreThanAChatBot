@@ -6,7 +6,7 @@ The following details key large language model (LLM) providers and their capabil
 
 American AI pioneer known for the GPT series. Their GPT-3 (2020) used 175B parameters for high-quality text generation, while GPT-4 (2023) added multimodal capabilities. ChatGPT Enterprise (2023) introduced business-focused security and API customization. The 2024 GPT-4o update achieved 320ms latency for real-time voice interactions.
 
-Models: [GPT-4-mini](../models/#gpt-4-mini)
+Models: [GPT-4o-Mini](../models/#gpt-4o-mini)
 
 **Online Service**: [ChatGPT](https://chatgpt.com)
 
