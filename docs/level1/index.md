@@ -1,12 +1,12 @@
 # Level 1: AI-Powered Web Tools for Researchers¶
 
-## Select Models
+Are you an ecologist, conservation scientist, or environmental enthusiast who doesn't know where to start using AI in your work? Then, you've come to the right place! Below we've compiled lots of resources and examples for your persual. We hope these resources can help demystify your AI experience.
+
+## Proprietary Models
 
 Below is a list of select models that was curated based on their capabilities and performance.
 
-### Proprietary Models
-
-#### GPT-4-mini
+### GPT-4-mini
 
 General purpose, decent context length, cheap, and fast.
 
@@ -17,7 +17,7 @@ Good for:
 3. Initial research question brainstorming
 4. Literature search query refinement
 
-#### Gemini 1.5 Deep Research
+### Gemini 1.5 Deep Research
 
 General purpose, very long context length, but requires a paid subscription.
 
@@ -28,7 +28,7 @@ Good for:
 3. Comprehensive literature reviews
 4. Extracting structured datasets from extensive research documents
 
-#### Gemini 2.0 Flash
+### Gemini 2.0 Flash
 
 General purpose, very long context length, free (at the current moment), and extremely fast.
 
@@ -39,7 +39,7 @@ Good for:
 3. Quick validation of methodology sections
 4. Interactive exploratory data analysis
 
-#### Claude 3.5 Sonnet
+### Claude 3.5 Sonnet
 
 Excels at coding, long context length, but limited messages.
 
@@ -50,9 +50,9 @@ Good for:
 3. Detailed technical writing and editing
 4. Implementation of novel research algorithms
 
-### Open Source Models
+## Open Source Models
 
-#### Deepseek R1 70B
+### Deepseek R1 70B
 
 Good at reasoning, long context length, and free.
 
@@ -63,7 +63,7 @@ Good for:
 3. Research methodology validation
 4. Hypothesis refinement and testing
 
-#### Qwen 2.5 Coder 7B
+### Qwen 2.5 Coder 7B
 
 Good at coding, decent context length.
 
@@ -74,7 +74,7 @@ Good for:
 3. Statistical analysis implementations
 4. Scientific visualization code
 
-#### Mistral Small 24B
+### Mistral Small 24B
 
 Good at reasoning, decent context length.
 
@@ -87,31 +87,25 @@ Good for:
 
 ## LLM Providers
 
-Are you an ecologist, conservation scientist, or environmental enthusiast who doesn't know where to start using AI in your work? Then, you've come to the right place! Below we've compiled lots of resources and examples for your persual. We hope these resources can help demystify your AI experience.
+The following is a list of leading LLM providers.
 
-### ChatGPT
+### OpenAI ChatGPT
 
 American OpenAI's flagship service, excelling at grant proposal writing and literature review summarization, with strong capabilities in explaining complex ecological concepts.
 
 **Online Service**: [ChatGPT](https://chatgpt.com)
 
-**Case Studies**
-
-### Gemini  
+### Google Gemini
 
 American Google's multimodal AI, particularly strong in analyzing wildlife images and creating data visualizations for conservation reports, with integrated access to scientific research.
 
 **Online Service**: [Gemini](https://aistudio.google.com)  
 
-**Case Studies**
-
-### Claude  
+### Anthropic Claude
 
 American Anthropic's assistant, exceptional at detailed policy analysis and scientific writing, with strong capabilities in processing complex environmental datasets and crafting research proposals.
 
 **Online Service**: [Claude](https://claude.ai/)
-
-**Case Studies**
 
 ### Deepseek  
 
@@ -119,15 +113,11 @@ Chinese AI service focused on technical documentation and research code generati
 
 **Online Service**: [Deepseek](https://chat.deepseek.com)  
 
-**Case Studies**
-
 ### Qwen
 
 Chinese Alibaba's versatile model excelling in multilingual conservation work and processing Asian biodiversity data, with excellent capabilities in analyzing environmental policy documents.
 
-**Online Service**: [Qwen](https://tongyi.aliyun.com/)  
-
-**Case Studies**
+**Online Service**: [Qwen](https://chat.qwenlm.ai/)  
 
 ### Mistral  
 
@@ -135,15 +125,11 @@ French AI service excellent at coding for data analysis and creating environment
 
 **Online Service**: [Mistral](https://chat.mistral.ai/)
 
-**Case Studies**
-
 ### Groq  
 
 American platform offering ultra-fast processing of environmental data and real-time species identification assistance, ideal for field research applications.
 
 **Online Service**: [Groq](https://groq.com/)  
-
-**Case Studies**
 
 ### Perplexity  
 
@@ -151,20 +137,12 @@ American AI search engine particularly useful for real-time conservation researc
 
 **Online Service**: [Perplexity](https://www.perplexity.ai/)  
 
-**Case Studies**
-
 ### WebLLM  
-
-American open-source platform ideal for offline field research, enabling local processing of ecological data without internet connectivity.
 
 **Online Service**: [WebLLM](https://chat.webllm.ai/)  
 
-**Case Studies**
-
 ### Hugging Face Spaces  
 
-American collaborative platform hosting specialized conservation models and tools, including species identification and habitat mapping applications.
+American collaborative platform hosting LLM models and datasets to evaluate or train the models.
 
 **Online Service**: [Hugging Face Spaces](https://huggingface.co/spaces)  
-
-**Case Studies**
