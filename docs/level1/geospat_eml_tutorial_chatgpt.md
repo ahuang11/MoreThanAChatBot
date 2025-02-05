@@ -18,8 +18,50 @@ ezEML is a web UI designed to simplify the creation of metadata in the EML forma
 6. **Edit & Re-upload (If Necessary):** If errors were found, use an XML editor to make the necessary corrections to your file. Save the changes and repeat the upload process to validate the corrected file.
 7. **Finalize and Save:** Once your XML file passes validation without errors, you can proceed to save or publish your metadata within ezEML. Follow any additional prompts to complete the process, such as adding metadata details or linking to datasets.
 
-## Case Studies
+## Experiments
+
+For each experiment, the following variables are manipulated:
+
+- Geospatial file type
+- AI Chatbot Agent
+- Prompt
+
+The following method was followed for each experiment:
+
+- Upload geospatial file to AI (if possible)
+- Type prompt and execute
+- Retrieve EML output either as downloadable XML file or text block that can be copied and saved as an XML File
+- Visually inspect the outputs for general adherance to XML structure
+- Upload XML, without modification to the ezEML web UI 
+
+### Input Dataset Descriptions
+
+**LeafyLandscapesPlots**
+
+- *description*
+
+**IceTrafficDataFrame**
+
+- *description*
+
+**HLSL30.020_B01**
+
+- *description*
 
 ### Overall Results
 
-### ...
+**Table 1:** Geospatial file types accepted by AI Chatbot Agent
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+||chatGPT-4o|Claude|DeepSeek|Microsoft CoPilot|
+||----------|------|--------|-----------------|
+|Shapefile|Yes|No|No|No|
+|GeoJSON|Yes||||			
+|TIFF|||||				
+|CSV|||||
+
+### 
