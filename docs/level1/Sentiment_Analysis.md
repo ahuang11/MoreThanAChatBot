@@ -385,8 +385,8 @@ plt.show()
 ```
 ![image](https://github.com/user-attachments/assets/76ea3064-26b0-4703-8eab-f487dd8e55be)
 
-Accuracy tensor(0.8520)
-F1 tensor(0.9201)
+- Accuracy tensor(0.8520)
+- F1 tensor(0.9201)
 ---
 
 ## Conclusion and Next Steps
