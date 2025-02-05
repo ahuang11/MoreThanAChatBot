@@ -119,7 +119,7 @@ pdf_texts <- lapply(pdf_files[2:4], pdf_text)
 Now we'll define a new data structure that extracts information about threats.
 
 ```r
-
+# Define the expected data structure
 type_summary <- type_array("An array containing a row for every species for which a trend in population through time is mentioned",
                            items = type_object("Data on trends through time for a single species",
                                                title = type_string("Title of the paper"),
@@ -136,14 +136,14 @@ We'll repeat a similar process to above, but try a system prompt to initiate the
 
 ```r
 
-# initiate chat
+# Initialize the chat interface with the specified model
 chat <- chat_openai(model = 'gpt-4o-mini',
                     system_prompt = "You are a graduate student researcher who excels at reading and succinctly summarizing articles.")
 
-# extract information from pdf text
+# Extract data based on the defined structure
 threats <- map_dfr(pdf_texts, ~ chat$extract_data(.x, type = type_summary))
 
-#view table
+# Display the extracted data
 print(threats)
 ```
 
