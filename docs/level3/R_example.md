@@ -42,13 +42,13 @@ We've assembled freely-available PDFs for this example [here](https://github.com
 ```r
 # Download PDFs
 download.file("https://github.com/ahuang11/MoreThanAChatBot/blob/main/docs/level3/pdf/paper1.pdf",
-  "pdf/paper1" mode = "wb")
+  "pdf/paper1", mode = "wb")
 download.file("https://github.com/ahuang11/MoreThanAChatBot/blob/main/docs/level3/pdf/paper2.pdf",
-  "pdf/paper2" mode = "wb")
+  "pdf/paper2", mode = "wb")
 download.file("https://github.com/ahuang11/MoreThanAChatBot/blob/main/docs/level3/pdf/paper3.pdf",
-  "pdf/paper3" mode = "wb")
+  "pdf/paper3", mode = "wb")
 download.file("https://github.com/ahuang11/MoreThanAChatBot/blob/main/docs/level3/pdf/paper4.pdf",
-  "pdf/paper4" mode = "wb")
+  "pdf/paper4", mode = "wb")
 
 ```
 
