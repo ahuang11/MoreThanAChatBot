@@ -1,6 +1,7 @@
-# Level 1
+# Level 1: AI-Powered Web Tools for Researchers¶
 
 ## LLM Providers
+
 
 ### ChatGPT
 
