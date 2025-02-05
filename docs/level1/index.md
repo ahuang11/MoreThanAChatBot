@@ -60,16 +60,6 @@ Are you an ecologist, conservation scientist, or environmental enthusiast who do
 
 - 
 
-### Perplexity  
-
-**Online Service**: [Perplexity](https://www.perplexity.ai/)  
-
-- Specializes in online search
-
-**Case Studies**
-
-- 
-
 ### Groq  
 
 **Online Service**: [Groq](https://groq.com/)  
@@ -80,9 +70,7 @@ Are you an ecologist, conservation scientist, or environmental enthusiast who do
 
 - 
 
-### LLM Hubs  
-
-#### WebLLM  
+### WebLLM  
 
 **Online Service**: [WebLLM](https://chat.webllm.ai/)  
 
@@ -92,7 +80,17 @@ Quantized models that run in the browser.
 
 - 
 
-#### Hugging Face Spaces  
+### Perplexity  
+
+**Online Service**: [Perplexity](https://www.perplexity.ai/)  
+
+- Specializes in online search
+
+**Case Studies**
+
+- 
+
+### Hugging Face Spaces  
 
 **Online Service**: [Hugging Face Spaces](https://huggingface.co/spaces)  
 
