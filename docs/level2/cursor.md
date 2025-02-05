@@ -1,16 +1,7 @@
 # Speed up your coding with Cursor!
-### An example of generating a Google Earth Engine code for time series analysis
+**An example of generating a Google Earth Engine code for time series analysis**
 
 Imagine you want to try out a cool method or a new tool but are worried about the steep learning curve or the massive time investment in endless searches for example codes that might end up creating more chaos.... Cursor might be worth checking out!
-
-
-## Table of content
-
-* What is cursor?
-* Pros and Cons in a nutshell
-* Key features and function highlights
-* Example: Generating a Google Earth Engine code for time series analysis
-* Closing remarks
 
 ### What is cursor?
 
@@ -24,7 +15,7 @@ Okay, that's the ad cursor wrote for itself. While I remain conservative about h
 So in even simpler terms for an introduction, cursor helps write code more efficiently, and can make writing longer codes less intimidating (personal opinion). So if you're already coding, but sometimes still find certain coding task overwhelming, cursor (and the like) might be something worth checking out.
 
 
-#### Pros and Cons in a nutshell
+#### Pros and Cons
 
 **Cursor is good at ...**
 
@@ -55,7 +46,7 @@ Given the extremely diverse user needs for code improvement, cursor is not going
 - Double check and make sure the information cursor gives you is up to date and accurate
 Example: when I tried cursor out in January, 2025, Cursor did not provide "gpt-4o-mini" as an option for querying the api from openai, so I had to use links and evidence to "convince" it. Especially in cases where things are updating fast, the user should keep an active mind and make sure everything works theoretically (e.g., if the api supports the data format you want to have).
 
-#### Key features and function highlight
+#### Key features
 
 Cursor has a comprehensive overview of key features on its [webpage](https://www.cursor.com/features). I am highlighting some of those I've tested out and find useful.
 
@@ -79,12 +70,12 @@ The above functions are all located on the right tab, we can also leverage curso
 There are many cool tricks one can do with the autocompletion function using tab key. The one example I tried before was automatically changing variable names across functions and scripts.
 
 
-### Example: Generating a Google Earth Engine code for time series analysis
+### An example with Google Earth Engine
 
 #### 1. Download and set up
-Please see these document for how to download and install cursor to a local device.
+Download and install cursor from their webpage to a local device.
 
-#### 2. Try "chat" function
+#### 2. "chat" function
 
 Write a task for cursor and it will generate the code.
 
@@ -92,7 +83,7 @@ Write a task for cursor and it will generate the code.
 
 Then copy paste the code to try it out in the Google Earth Engine Code Editor following cursor's instructions. There are errors returned. Let's try debug it with cursor.
 
-#### 3. Try "composer" function
+#### 3. "composer" function
 
 Open a folder on the left hand side of the bar. Create a ".js" file and copy paste the code into that file.
 
@@ -114,4 +105,4 @@ Building from this, we can give more commands to cursor to improve the analysis 
 
 ### Closing remarks
 
-Despite all the amazing things that cursor can do, it is always better to set our expectations realistically, knowing what it is good at and what not. Having a plan ahead of time, start from simple, and make changes iteratively, all the best practice advice from the pre-AI coding era, are still very valuable best practices that people should keep in mind and follow.
+Despite all the amazing things that cursor can do, it is always better to set our expectations realistically, knowing what it is good at and what not. Having a plan ahead of time, starting from simple, and making changes iteratively, all the best practice advice from the pre-AI coding era, are still very valuable best practices that people should keep in mind and follow.
