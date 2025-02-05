@@ -62,7 +62,7 @@ Cursor has a comprehensive overview of key features on its [webpage](https://www
 - Chat
 After opening cursor, the user can access "chat", "composer", and "bug finder" functions. To access these, click the very top right button and then these functions will appear on the right tab.
 
-![test](cursor-snapshot/fig1.png)
+![fig1](cursor-snapshot/fig1.png)
 
 "chat" is a great function to interact with cursor to ask questions and get some answers in general. It does not make changes to your code directly, but it can be a good starting point to explore different options.
 
@@ -72,7 +72,7 @@ After opening cursor, the user can access "chat", "composer", and "bug finder" f
 - Chat and edit in the code
 The above functions are all located on the right tab, we can also leverage cursor to interact with code more directly on the left panel. There are "chat" and "edit" options near any selected text. This "chat" option near code line on the left panel allows you to give context information (i.e., the couple of lines of code the user selected) to further chat with cursor. The "edit" option allows users to give more editing instructions
 
-<fig.2>
+![fig2](cursor-snapshot/fig2.png)
 
 
 - Tab key
@@ -88,7 +88,7 @@ Please see these document for how to download and install cursor to a local devi
 
 Write a task for cursor and it will generate the code.
 
-<fig.3>
+![fig3](cursor-snapshot/fig3.png)
 
 Then copy paste the code to try it out in the Google Earth Engine Code Editor following cursor's instructions. There are errors returned. Let's try debug it with cursor.
 
@@ -98,17 +98,17 @@ Open a folder on the left hand side of the bar. Create a ".js" file and copy pas
 
 People can try better ways to interact, but personally, I just copy pasted the error message to cursor.
 
-<fig.4>
+![fig4](cursor-snapshot/fig4.png)
 
 Read through the explanation and changes to decide on which changes to keep or reject.
 
 After the first round of changes, the chart is now able to generate a chart in GEE code editor. But there remains another error.
 
-<fig.5>
+![fig5](cursor-snapshot/fig5.png)
 
 Copy paste the remaining error again and do these procedure iteratively. After about 2 rounds of changes, we have a working script now! This whole process takes about 5 mins and no need to write a single line of code.
 
-<fig.6>
+![fig6](cursor-snapshot/fig6.png)
 
 Building from this, we can give more commands to cursor to improve the analysis or the visualization. Iteration is still a huge part of this process!
 
