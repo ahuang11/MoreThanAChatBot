@@ -40,16 +40,16 @@ This webpage was brought to you by the "More Than a Chatbot" breakout group form
 The Summit's theme was *The Future of AI in Conservation & Management*.
 
 Team Members during the EDS Summit:  
-- Andrew Huang, he/him, ahuang@anaconda.com
-- Kirk Klausmeyer, he/him, kklausmeyer@tnc.org
-- Amy Kendig, she/her, amy.kendig@state.mn.us
-- Kelly van Woesik, she/her, kjvanwoe@ncsu.edu
-- Wenxin Yang, she/her, wenxinyang@ucsb.edu
-- Anish Dulal, he/him, anishd@uoregon.edu
-- Raissa Mendonca, she/her, rmarques@kent.edu
-- Trishala Thakur, she/her, trishala.thakur@colorado.edu
-- Aji John, he/him, ajijohn@uw.edu
-- Kelly Easterday she/her, Kelly.easterday@tnc.org
-- Glenn Moncrieff, he/him, glenn.moncrieff@tnc.org
+- Andrew Huang, he/him, ahuang@anaconda.com  
+- Kirk Klausmeyer, he/him, kklausmeyer@tnc.org  
+- Amy Kendig, she/her, amy.kendig@state.mn.us  
+- Kelly van Woesik, she/her, kjvanwoe@ncsu.edu  
+- Wenxin Yang, she/her, wenxinyang@ucsb.edu  
+- Anish Dulal, he/him, anishd@uoregon.edu  
+- Raissa Mendonca, she/her, rmarques@kent.edu  
+- Trishala Thakur, she/her, trishala.thakur@colorado.edu  
+- Aji John, he/him, ajijohn@uw.edu  
+- Kelly Easterday she/her, Kelly.easterday@tnc.org  
+- Glenn Moncrieff, he/him, glenn.moncrieff@tnc.org  
 
 ![image](https://github.com/user-attachments/assets/6319cf1b-f471-4f34-84ab-6f4dc0862b35)
