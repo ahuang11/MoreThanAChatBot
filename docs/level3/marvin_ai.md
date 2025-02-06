@@ -1,11 +1,11 @@
 # End to End App deployment using Huggingface
 
-This app allows users to upload a file and extract text-based content from it based on user-defined instructions.
+This app allows users to upload a file and extract text-based content from it based on user-defined instructions
 
-panel: Provides the interactive UI with a file dropper, text input, and extract button.
-marvin: Handles text extraction using an OpenAI language model (gpt-4o-mini).
-markitdown: Converts uploaded documents into text format.
-io & os: Manage file handling and processing.
+ - panel: Provides the interactive UI with a file dropper, text input, and extract button.
+ - marvin: Handles text extraction using an OpenAI language model (gpt-4o-mini).
+ - markitdown: Converts uploaded documents into text format.
+ - Huggingface: Hosts the deployed application.
 
 The app supports text and image files but does not handle videos.
 
