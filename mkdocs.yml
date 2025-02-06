@@ -77,8 +77,8 @@ nav:
         - Gateways: level1/gateways
         - Case Studies:
             - Prompting with ChatGPT: level1/chatgpt
-            - Sentiment Analysis: level1/Sentiment_Analysis
             - Coding in Colab: level1/colab
+            - Using Claude: level1/Using_Claude_to_interpret_plots.md
             - Deepseek: level1/deepseek
             - Pitfalls of Gemini: level1/Pitfall_of_Gemini
             - Search using Perplexity: level1/Perplexity_for_research
@@ -90,3 +90,4 @@ nav:
         - Overview: level3/index
         - LLM in R: level3/R_example
         - Deployment: level3/marvin_ai
+        - Sentiment Analysis: level3/Sentiment_Analysis
