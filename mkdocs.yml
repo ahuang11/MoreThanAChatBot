@@ -77,10 +77,10 @@ nav:
         - Gateways: level1/gateways
         - Case Studies:
             - Prompting with ChatGPT: level1/chatgpt
-            - Coding in Colab: level1/colab
-            - Using Claude: level1/Using_Claude_to_interpret_plots.md
-            - Deepseek: level1/deepseek
+            - Gemini: level1/gemini
             - Pitfalls of Gemini: level1/Pitfall_of_Gemini
+            - Deepseek: level1/deepseek
+            - Using Claude: level1/Using_Claude_to_interpret_plots.md
             - Search using Perplexity: level1/Perplexity_for_research
     - Level 2:
         - Overview: level2/index
