@@ -21,9 +21,9 @@ Here, DeepSeek couldn't give an output, but gave resources for where to look ins
 
 ## Prompts & Checking
 
-Check out the ChatGPT tab for a more in-depth view of prompting large language models and limitations.  
+Check out the [ChatGPT tab](https://ahuang11.github.io/MoreThanAChatBot/level1/chatgpt/) for a more in-depth view of prompting large language models and limitations.  
 
-DeepSeek correctly identifies that strawberry has 3 r letters in it (unlike ChatGPT).  
+DeepSeek correctly identifies that strawberry has 3 r letters in it [(unlike ChatGPT)](https://ahuang11.github.io/MoreThanAChatBot/level1/chatgpt/).  
 ![image](https://github.com/user-attachments/assets/1a418bcc-fe37-490c-ba7d-ed6c2b17a148)
 
-But remember, every model has limitations and is only as good as its input. Happy prompting!
+But remember, every model has limitations and is only as good as its input. Happy prompting.
