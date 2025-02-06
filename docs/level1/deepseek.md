@@ -26,4 +26,4 @@ Check out the [ChatGPT tab](https://ahuang11.github.io/MoreThanAChatBot/level1/c
 DeepSeek correctly identifies that strawberry has 3 r letters in it [(unlike ChatGPT)](https://ahuang11.github.io/MoreThanAChatBot/level1/chatgpt/).  
 ![image](https://github.com/user-attachments/assets/1a418bcc-fe37-490c-ba7d-ed6c2b17a148)
 
-But remember, every model has limitations and is only as good as its input. Happy prompting.
+But remember, every model has limitations and is only as good as its input. Happy prompting!
