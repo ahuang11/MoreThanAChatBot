@@ -35,9 +35,11 @@ For those building AI solutions, this level covers the use of Python and R toolk
 
 ## Acknowledgements
 
-This webpage was brought to you by the "More Than a Chatbot" breakout group formed during the 3rd Annual [Environmental Data Science (EDS) Summit](https://eds-summit.github.io/) hosted by the National Center for Ecological Analysis and Synthesis (NCEAS) in Santa Barbara, CA from February 4-6, 2025. The Summit's theme was *The Future of AI in Conservation & Management*.
+This webpage was brought to you by the "More Than a Chatbot" breakout group formed during the 3rd Annual [Environmental Data Science (EDS) Summit](https://eds-summit.github.io/) hosted by the National Center for Ecological Analysis and Synthesis (NCEAS) in Santa Barbara, CA from February 4-6, 2025.
 
-Team Members during the EDS Summit:
+The Summit's theme was *The Future of AI in Conservation & Management*.
+
+Team Members during the EDS Summit:  
 - Andrew Huang, he/him, ahuang@anaconda.com
 - Kirk Klausmeyer, he/him, kklausmeyer@tnc.org
 - Amy Kendig, she/her, amy.kendig@state.mn.us
