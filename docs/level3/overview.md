@@ -1,5 +1,7 @@
 # Level 3: End-to-End AI Development for Conservation Science
 
+[TOC]
+
 For those building AI solutions, this level covers the use of Python and R toolkits, hosting platforms like [Hugging Face](https://huggingface.co), and advanced workflows for conservation data processing, machine learning, and automation. Get hands-on with example code, deployment guides, and best practices for developing AI-driven scientific applications.
 
 By utilizing platforms like Hugging Face and leveraging APIs, you can seamlessly embed AI into your scientific applications, enhancing your ability to analyze and interpret conservation data. This level is ideal for those looking to take their AI development skills to the next stage, with a focus on creating scalable and effective solutions for conservation science.
