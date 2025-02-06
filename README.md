@@ -1,4 +1,4 @@
-# More Than a ChatBot
+# More Than a ChatBot 🤖
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![GitHub contributors](https://img.shields.io/github/contributors/ahuang11/MoreThanAChatBot) ![GitHub last commit](https://img.shields.io/github/last-commit/ahuang11/MoreThanAChatBot)
 
@@ -8,7 +8,7 @@
 
 Many environmental data scientists primarily engage with large language models (LLMs) through simple prompting and chat interactions with popular artificial intelligence (AI) providers like OpenAI ChatGPT and Microsoft Copilot. However, there are additional untapped applications for LLMs in environmental data science that can enhance capacity and improve data pipelines.
 
-The unfamiliarity with LLMs within environmental data science limits scientists' ability to leverage these tools for coding and data analysis. This project seeks to bridge that knowledge gap and open the black box of LLM application in environmental science by providing resources and real-world use cases of LLMs in scientific workflows. We ultimately hope this page helps you 
+The unfamiliarity with LLMs within environmental data science limits scientists' ability to leverage these tools for coding and data analysis. This project seeks to bridge that knowledge gap and open the black box of LLM application in environmental science by providing resources and real-world use cases of LLMs in scientific workflows... and show that LLMs are _more than a chatbot_ 🤖
 
 <img align="center" src="https://github.com/user-attachments/assets/c6488cf8-7d6c-4cea-9ea1-653d1fa0700d" width="60%" height="60%">
 
