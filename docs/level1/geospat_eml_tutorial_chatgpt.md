@@ -114,7 +114,15 @@ These data represent a monthly time series of sea ice concentration data (CryoSa
 
 ## Discussion
 
+We found a wide variety of capabilities for EML generation across LLMs. chatGPT-4o was able to ingest the largest number of spatial data file types, followed by DeepSeek. In several cases, LLMs were capable of extracting spatial information (projection, bounding box) from within the provided spatial data format. 
+
+The EMLs produced by LLMs provided a starting point for metadata generation, but without supplemental information provided by the author, the LLMs were prone to hallucinations. However, with large data sets including many columns, the LLM could save valuable time on manually entering a large number of data fields. As with many other LLM use cases, we found that it is useful to think of them as a competent assistant. Very helpful with tedious tasks, but in need of supervision. 
+
+Future tests would benefit from further engagement and prompt engineering alongside LLMs. It could be possible to refine EML content by providing or correctly initial LLM output in an iterative fashion. 
+
 ## Conclusion
+
+LLMs are a useful tool for lowering the barrier to entry for metadata generation by automating tedious processes and creating templates for (often unfamiliar) file formats. However, users must exercise caution when using LLMs for metadata creation given the tendency to hallucinate important information, especially when not pre-provided by the user. 
 
 ## Authors & Awknowledgements
 
