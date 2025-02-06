@@ -65,6 +65,18 @@ Good for:
 1. Complex research software architecture design
 2. Write, edit, and execute code with sophisticated reasoning and troubleshooting capabilities
 
+### Mistral Large
+
+Provider [Mistral](../providers/#mistral-ai)
+
+Excels at multi-modal, long context length, and fast. Has free tier.
+
+Good for:
+1. Blazing-fast responses (~1000 words/sec)
+2. Advanced document & image analysis
+3. Local code execution & data exploration
+4. Top-tier image generation model
+
 ## Open Source Models
 
 Open source models make their weights, architecture, and training code publicly available. They can be run locally on personal hardware or deployed to cloud infrastructure. Most implementations use techniques like quantization to reduce model size and memory requirements. Common formats include GGUF (formerly GGML) and AWQ for efficient deployment.
