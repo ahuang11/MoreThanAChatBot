@@ -31,7 +31,7 @@ Like in medicine, what if you want to use ecological data to make an important c
 - **Better:**  
   ![image](https://github.com/user-attachments/assets/7b3035a2-c228-4e4e-a5c9-cac52fa6897b)
 
-### Prompt Guides
+## Prompt Guides
 
 Check out these guides for promting large language models:
 
