@@ -85,7 +85,7 @@ nav:
             - Intro to Deepseek: level1/deepseek
             - Using Claude: level1/Using_Claude_to_interpret_plots
             - Search using Perplexity: level1/Perplexity_for_research
-            - Geospatial EML Tutorial: geospat_eml_tutorial_chatgpt
+            - Geospatial EML Tutorial: level1/geospat_eml_tutorial_chatgpt
     - Level 2:
         - Overview: level2/overview
         - Cursor: level2/cursor
