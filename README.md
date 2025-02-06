@@ -30,17 +30,17 @@ The Summit's theme was _The Future of AI in Conservation & Management_.
 
 Team Members during the EDS Summit:  
 
-- Andrew Huang, he/him, <a.holoviz.dev@gmail.com>
-- Kirk Klausmeyer, he/him, <kklausmeyer@tnc.org>
-- Amy Kendig, she/her, <amy.kendig@state.mn.us>
-- Kelly van Woesik, she/her, <kjvanwoe@ncsu.edu>
-- Wenxin Yang, she/her, <wenxinyang@ucsb.edu>
-- Anish Dulal, he/him, <anishd@uoregon.edu>
-- Raissa Mendonca, she/her, <rmarques@kent.edu>
-- Trishala Thakur, she/her, <trishala.thakur@colorado.edu>
-- Aji John, he/him, <ajijohn@uw.edu>
-- Kelly Easterday, she/her, <kelly.easterday@tnc.org>
-- Glenn Moncrieff, he/him, <glenn.moncrieff@tnc.org>
+- Andrew Huang, Anaconda, <a.holoviz.dev@gmail.com>
+- Kirk Klausmeyer, The Nature Conservancy, <kklausmeyer@tnc.org>
+- Amy Kendig, Minnesota Department of Natural Resources, <amy.kendig@state.mn.us>
+- Kelly van Woesik, North Carolina State University, <kjvanwoe@ncsu.edu>
+- Wenxin Yang, University of California Santa Barbara, <wenxinyang@ucsb.edu>
+- Anish Dulal, University of Oregon, <anishd@uoregon.edu>
+- Raissa Mendonca, Kent State University, <rmarques@kent.edu>
+- Trishala Thakur, University of Colorado Boulder, <trishala.thakur@colorado.edu>
+- Aji John, University of Washington, <ajijohn@uw.edu>
+- Kelly Easterday, The Nature Conservancy, <kelly.easterday@tnc.org>
+- Glenn Moncrieff, The Nature Conservancy, <glenn.moncrieff@tnc.org>
 
 ![image](https://github.com/user-attachments/assets/6319cf1b-f471-4f34-84ab-6f4dc0862b35)
 
