@@ -10,7 +10,7 @@ Many environmental data scientists primarily engage with large language models (
 
 The unfamiliarity with LLMs within environmental data science limits scientists' ability to leverage these tools for coding and data analysis. This project seeks to bridge that knowledge gap and open the black box of LLM application in environmental science by providing resources and real-world use cases of LLMs in scientific workflows.
 
-<img align="center" src="https://github.com/ahuang11/MoreThanAChatBot/blob/15a812dc9c4ef0d94c50e2e4a5aa7f7d3f25e70d/docs/assets/overview_img.png" width="60%" height="60%">
+<img align="center" src="https://github.com/user-attachments/assets/c6488cf8-7d6c-4cea-9ea1-653d1fa0700d" width="60%" height="60%">
 
 ## Table of Contents
 
