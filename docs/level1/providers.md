@@ -10,7 +10,7 @@ Models: [GPT-4o-Mini](../models/#gpt-4o-mini)
 
 **Online Service**: [ChatGPT](https://chatgpt.com)
 
-## [Google Gemini](colab.md)
+## [Google Gemini](gemini.md)
 
 Google's integrated AI system featuring Gemini 1.5 Pro (2024), which processes up to 1.4M words or 22hrs of audio. Gemini Advanced offers Deep Research and trip planning using Google ecosystem data. Features 30fps video analysis and code execution that reduced errors by 40% in benchmarks.
 
