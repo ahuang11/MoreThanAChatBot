@@ -67,7 +67,7 @@ pdf_text1 <- pdf_text(pdf1)
 print(pdf_text1)
 ```
 
-![Table of trends based on PDF text extraction](images/trends_table.png?raw=true "Trends Table")
+![trends_table](images/trends_table.png)
 
 ## Defining the Data Structure for Trends
 
@@ -151,7 +151,7 @@ threats <- map_dfr(pdf_texts, ~ chat$extract_data(.x, type = type_summary))
 print(threats)
 ```
 
-![Table of threats based on PDF text extraction](images/threats_table.png?raw=true "Threats Table")
+![threats_table](images/threats_table.png)
 
 ## Conclusion
 
