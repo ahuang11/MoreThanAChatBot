@@ -70,4 +70,4 @@ For example strawberry actually has 3 letters, not 2!
 ![image](https://github.com/user-attachments/assets/bc7bae70-55c8-4794-a52c-c199eefaa967)  
 See how this output compares with DeepSeek [on our other example tab](https://ahuang11.github.io/MoreThanAChatBot/level1/deepseek/).
 
-It's always good to validtate the output. In the example above, you may want to manually check pdf inputs along the way and refine your prompts accordingly. Play around with your prompts, and harness the power of large language models for good. Happy prompting.
+It's always good to validtate the output. In the example above, you may want to manually check pdf inputs along the way and refine your prompts accordingly. Play around with your prompts, and harness the power of large language models for good. Happy prompting!
