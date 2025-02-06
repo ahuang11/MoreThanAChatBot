@@ -30,3 +30,24 @@ Take your AI-powered research further with IDEs like Cursor. These tools enhance
 
 ### **[Level 3](https://ahuang11.github.io/MoreThanAChatBot/level3/index): End-to-End AI Development for Conservation Science**  
 For those building AI solutions, this level covers the use of Python and R toolkits, hosting platforms like [Hugging Face](https://huggingface.co), and advanced workflows for conservation data processing, machine learning, and automation. Get hands-on with example code, deployment guides, and best practices for developing AI-driven scientific applications.
+
+---
+
+## Acknowledgements
+
+This webpage was brought to you by the "More Than a Chatbot" breakout group formed during the 3rd Annual [Environmental Data Science (EDS) Summit](https://eds-summit.github.io/) hosted by the National Center for Ecological Analysis and Synthesis (NCEAS) in Santa Barbara, CA from February 4-6, 2025. The Summit's theme was *The Future of AI in Conservation & Management*.
+
+Team Members during the EDS Summit:
+- Andrew Huang, he/him, ahuang@anaconda.com
+- Kirk Klausmeyer, he/him, kklausmeyer@tnc.org
+- Amy Kendig, she/her, amy.kendig@state.mn.us
+- Kelly van Woesik, she/her, kjvanwoe@ncsu.edu
+- Wenxin Yang, she/her, wenxinyang@ucsb.edu
+- Anish Dulal, he/him, anishd@uoregon.edu
+- Raissa Mendonca, she/her, rmarques@kent.edu
+- Trishala Thakur, she/her, trishala.thakur@colorado.edu
+- Aji John, he/him, ajijohn@uw.edu
+- Kelly Easterday she/her, Kelly.easterday@tnc.org
+- Glenn Moncrieff, he/him, glenn.moncrieff@tnc.org
+
+![image](https://github.com/user-attachments/assets/6319cf1b-f471-4f34-84ab-6f4dc0862b35)
