@@ -83,9 +83,9 @@ nav:
             - Getting Started with Gemini: level1/gemini
             - Pitfalls of Gemini: level1/Pitfall_of_Gemini
             - Intro to Deepseek: level1/deepseek
-            - Using Claude: level1/Using_Claude_to_interpret_plots.md
+            - Using Claude: level1/Using_Claude_to_interpret_plots
             - Search using Perplexity: level1/Perplexity_for_research
-            - Geospatial EML Tutorial: geospat_eml_tutorial_chatgpt.md
+            - Geospatial EML Tutorial: geospat_eml_tutorial_chatgpt
     - Level 2:
         - Overview: level2/overview
         - Cursor: level2/cursor
