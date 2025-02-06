@@ -77,12 +77,15 @@ nav:
         - Gateways: level1/gateways
         - Case Studies:
             - Prompting with ChatGPT: level1/chatgpt
+            - Sentiment Analysis: level1/Sentiment_Analysis
             - Coding in Colab: level1/colab
+            - Deepseek: level1/deepseek
             - Pitfalls of Gemini: level1/Pitfall_of_Gemini
             - Search using Perplexity: level1/Perplexity_for_research
     - Level 2:
         - Overview: level2/index
         - Cursor: level2/cursor
+        - Copilot: level2/copilot
     - Level 3:
         - Overview: level3/index
         - R: level3/R_example
