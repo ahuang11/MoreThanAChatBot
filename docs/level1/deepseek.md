@@ -3,7 +3,7 @@
 ## What is DeepSeek?
 ![image](https://github.com/user-attachments/assets/42d1b815-5f57-4aa2-9d11-ec1f21459479)
 
-### DeepSeek Interface:  
+### DeepSeek Interface  
 Deepseek looks similar to ChatGPT:  
 ![image](https://github.com/user-attachments/assets/bd3207af-5862-4158-b631-20f5415ace97)
 
