@@ -1,11 +1,11 @@
 # End to End App deployment using Huggingface
 
-This app allows users to upload a file and extract text-based content from it based on user-defined instructions
+To move our analyses outside of our local development environment and create applications that are available to multiple users, we can deploy an application and host it on a public-facing site like [Huggingface](www.huggingface.com). Here we will demonstrate this workflow by deploying an app allowing users to upload a file and extract text-based content from it based on user-defined instructions. we will build this using the following packages:
 
- - panel: Provides the interactive UI with a file dropper, text input, and extract button.
- - marvin: Handles text extraction using an OpenAI language model (gpt-4o-mini).
- - markitdown: Converts uploaded documents into text format.
- - Huggingface: Hosts the deployed application.
+ - **panel**: Provides the interactive UI with a file dropper, text input, and extract button.
+ - **marvin**: Handles text extraction using an OpenAI language model (gpt-4o-mini).
+ - **markitdown**: Converts uploaded documents into text format.
+ - **Huggingface**: Hosts the deployed application.
 
 The app supports text and image files but does not handle videos.
 
@@ -92,7 +92,7 @@ openai
 
 ```
 
-4. Lastly, update the secrets to iunclude your private info such as your API keys
+4. Lastly, update the secrets to include your private info such as your API keys
 
 ![](images/im3.png)
 
