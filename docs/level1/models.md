@@ -37,10 +37,9 @@ General purpose, very long context length, but requires a paid subscription.
 
 Good for:
 
-1. Deep analysis of multiple full research papers simultaneously
+1. Searching multiple research papers simultaneously
 2. Finding subtle connections across large bodies of research
-3. Comprehensive literature reviews
-4. Extracting structured datasets from extensive research documents
+3. Deeper literature reviews
 
 ### Gemini 2.0 Flash
 
@@ -64,9 +63,7 @@ Excels at coding, long context length, but limited messages.
 Good for:
 
 1. Complex research software architecture design
-2. Rigorous mathematical derivations and proofs
-3. Detailed technical writing and editing
-4. Implementation of novel research algorithms
+2. Write, edit, and execute code with sophisticated reasoning and troubleshooting capabilities
 
 ## Open Source Models
 
