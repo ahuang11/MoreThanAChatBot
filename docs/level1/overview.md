@@ -9,3 +9,5 @@ Discover how to leverage powerful AI tools directly in your web browser - no cod
 - Use Google Colab notebooks to combine AI assistance with basic data analysis
 
 Perfect for: Researchers new to AI tools who want to enhance their productivity without diving into coding.
+
+Start by looking at the pros and cons of the [LLM models](models).

@@ -1,10 +1,22 @@
 # LLM Models
 
+!!! warning "Privacy Notice for Proprietary Models"
+    All interactions with proprietary models are typically sent to and stored on company servers. Do not share sensitive data such as:
+
+    - Personal identifying information
+    - Private company data
+    - Confidential research
+    - Protected health information
+    - Financial data
+    - Authentication credentials
+    
+    For sensitive data, consider using [open source models](#open-source-models) that can be run locally instead.
+
 ## Proprietary Models
 
 Proprietary models are developed and maintained by specific companies or organizations. They often come with advanced features, optimizations, and support, but may require a subscription or usage fees.
 
-### GPT-4o-Mini
+### GPT-4-Mini
 
 Provider: [OpenAI ChatGPT](../providers/#openai-chatgpt)
 
@@ -68,7 +80,7 @@ Advantages:
 - Privacy benefits since data stays local
 - Community-driven improvements and customizations
 
-A way to use these models locally is through [Hugging Face](https://huggingface.co/), [LMStudio](https://lmstudio.ai/), or [OLlama](https://ollama.com/).
+A way to use these models locally is through [Hugging Face Spaces](https://huggingface.co/spaces), [LMStudio](https://lmstudio.ai/), or [Ollama](https://ollama.com/)!
 
 ### Deepseek R1 70B
 
