@@ -88,9 +88,8 @@ nav:
     - Level 2:
         - Overview: level2/overview
         - Cursor: level2/cursor
-        - Copilot: level2/copilot
     - Level 3:
         - Overview: level3/overview
         - LLM in R: level3/R_example
-        - Deployment: level3/marvin_ai
+        - Deploying LLM Workflows: level3/marvin_ai
         - Sentiment Analysis: level3/Sentiment_Analysis
