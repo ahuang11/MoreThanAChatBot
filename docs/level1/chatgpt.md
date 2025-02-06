@@ -27,6 +27,7 @@ Like in medicine, what if you want to use ecological data to make an important c
 ### Some examples
 - **Poor:**  
   ![image](https://github.com/user-attachments/assets/7cf46749-7780-4938-8541-7a48caa749ca)
+  <img align="center" src="https://github.com/user-attachments/assets/7cf46749-7780-4938-8541-7a48caa749ca">  
 
 - **Better:**  
   ![image](https://github.com/user-attachments/assets/7b3035a2-c228-4e4e-a5c9-cac52fa6897b)
@@ -67,7 +68,6 @@ Instead of uploading pdfs, you may want to give ChatGPT all of the links to the 
 
 Note that ChatGPT **may be wrong!**  
 For example strawberry actually has 3 letters, not 2!  
-<img align="center" src="https://github.com/user-attachments/assets/bc7bae70-55c8-4794-a52c-c199eefaa967">
 ![image](https://github.com/user-attachments/assets/bc7bae70-55c8-4794-a52c-c199eefaa967)  
 See how this output compares with DeepSeek [on our other example tab](https://ahuang11.github.io/MoreThanAChatBot/level1/deepseek/).
 
