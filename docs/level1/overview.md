@@ -10,4 +10,4 @@ Discover how to leverage powerful AI tools directly in your web browser - no cod
 
 Perfect for: Researchers new to AI tools who want to enhance their productivity without diving into coding.
 
-Start by looking at the pros and cons of the [LLM models](models).
+Start by looking at the pros and cons of the [LLM models](../models).

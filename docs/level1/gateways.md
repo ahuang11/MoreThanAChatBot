@@ -17,7 +17,6 @@ AI-powered search engine specializing in real-time web information retrieval and
 Leading platform hosting transformer models, comprehensive benchmarks, and training/evaluation datasets. Provides essential infrastructure for AI model development, testing, and deployment, serving as a central hub for the machine learning community.
 
 **Online Service**: [Hugging Face Spaces](https://huggingface.co/spaces)
-Here's the completed list of offline LLM gateways:
 
 ## Offline
 

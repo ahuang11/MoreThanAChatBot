@@ -80,7 +80,7 @@ Advantages:
 - Privacy benefits since data stays local
 - Community-driven improvements and customizations
 
-You can use these models through [offline gateways](gateways#offline).
+You can use these models through [offline gateways](../gateways#offline).
 
 ### Deepseek R1 70B
 
