@@ -65,4 +65,7 @@ Eventually, you may run into this error with a free account and uploads, which i
 
 Instead of uploading pdfs, you may want to give ChatGPT all of the links to the documents instead.
 
-Note that ChatGPT **may be wrong!** It's always good to validtate the output. In this example, you may want to manually check pdf inputs along the way and refine your prompts accordingly. Play around with your prompts, and harness the power of large language models for good. Happy prompting.
+Note that ChatGPT **may be wrong!** For example strawberry actually has 3 letters, not 2!  
+![image](https://github.com/user-attachments/assets/bc7bae70-55c8-4794-a52c-c199eefaa967)
+
+It's always good to validtate the output. In this example, you may want to manually check pdf inputs along the way and refine your prompts accordingly. Play around with your prompts, and harness the power of large language models for good. Happy prompting.
