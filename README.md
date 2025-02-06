@@ -39,7 +39,7 @@ Team Members during the EDS Summit:
 - Raissa Mendonca, she/her, <rmarques@kent.edu>
 - Trishala Thakur, she/her, <trishala.thakur@colorado.edu>
 - Aji John, he/him, <ajijohn@uw.edu>
-- Kelly Easterday she/her, <Kelly.easterday@tnc.org>
+- Kelly Easterday, she/her, <kelly.easterday@tnc.org>
 - Glenn Moncrieff, he/him, <glenn.moncrieff@tnc.org>
 
 ![image](https://github.com/user-attachments/assets/6319cf1b-f471-4f34-84ab-6f4dc0862b35)
