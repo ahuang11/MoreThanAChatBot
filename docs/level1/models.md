@@ -80,7 +80,7 @@ Advantages:
 - Privacy benefits since data stays local
 - Community-driven improvements and customizations
 
-A way to use these models locally is through [Hugging Face Spaces](https://huggingface.co/spaces), [LMStudio](https://lmstudio.ai/), or [Ollama](https://ollama.com/)!
+You can use these models through [offline gateways](gateways#offline).
 
 ### Deepseek R1 70B
 
