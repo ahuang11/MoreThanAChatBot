@@ -4,7 +4,7 @@
 
 You might remember the day back in Novemeber 2022 when our data world, as we knew it, changed. News headlines appeared announcing the launch of ChatGPT, a generative artificial intelligence chatbot developed by OpenAI.
 
-### ChatGPT Interface:
+### ChatGPT Interface
 ![image](https://github.com/user-attachments/assets/031040e2-4dcb-4e4f-a04d-9213435c5995)
 
 ### How does ChatGPT work?
