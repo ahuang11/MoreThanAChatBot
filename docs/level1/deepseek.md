@@ -12,4 +12,8 @@ Deepseek looks similar to ChatGPT:
 
 To use DeepSeek, create an account, and let's dive into some conservation examples!
 
-## 
+## Air Quality Example
+
+Imagine you're curious about differences in air quality around the country and want to know the outputs quickly. Here's an example of using DeepSeek:  
+![image](https://github.com/user-attachments/assets/62829084-cabc-4d13-afb6-a2f012a2aa45)
+
