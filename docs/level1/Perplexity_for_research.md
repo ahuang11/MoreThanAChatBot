@@ -7,29 +7,26 @@
 - It is a better tool for fact-checking as it cites its sources directly
 
 **What can earth scientists use this for?**
-1. Quickly summarize scientific papers (You can upload research papers and ask it to summarize the main ideas of the paper)
-2. Search for recent data sources for research
-3. Look up python/R modules for visualization for instance
+Here are just a few examples of how Earth scientists can use Perplexity AI to enhance their research and data analysis:
 
-**Sample prompts**
+1. How do I apply anomaly detection techniques to identify unusual climate patterns?
 
-1. What are the key points in this paper?
-   
-![image](https://github.com/user-attachments/assets/625e7bed-d21d-4d58-b056-f15a5c0d7550)
+If you’re working on identifying unusual climate patterns, Perplexity can help guide you through the various anomaly detection techniques. 
 
-2. resources for recent most drought data
-   
-![image](https://github.com/user-attachments/assets/a9d1d7e3-9eb2-4fd2-852f-ebc93f989d21)
+![image](https://github.com/user-attachments/assets/6cbb08de-b185-4f39-b15f-6463cfba6251)
 
-3. What are the best Python libraries for time series visualization
+2. What are the best AI-based tools for classifying land cover from satellite imagery?
 
-![image](https://github.com/user-attachments/assets/99435a4e-f3d6-4a29-bd17-e841534ebb91)
+When it comes to satellite imagery analysis, there’s a wide range of AI tools available. Perplexity can help you compare and contrast the best AI-based tools for land cover classification, ensuring you pick the right one for your research goals.
 
+![image](https://github.com/user-attachments/assets/2f28a987-39ec-4ad5-b00e-28c1d0715fe0)
 
-Resources for prompt engineering
+3. How do different climate models compare in predicting future temperature trends?
 
-1. https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview
+With Perplexity, you can easily find comparisons of different models and their predictions, along with the underlying data sources and methods.
 
-2. https://www.coursera.org/google-learn/prompting-essentials?utm_source=google&utm_medium=institutions&utm_campaign=sou--google__med--organicsearch__cam--gwgsite__con--null__ter--null
+![image](https://github.com/user-attachments/assets/6825c766-d811-465f-9a09-23e0657c2754)
 
+For those new to working with AI tools like Perplexity, **prompt engineering** can be an essential skill. If you’re looking to refine your prompts and get the most out of the tool, here is a resource to help you get started:
 
+- Prompt Engineering Guide - Anthropic: [Learn more here](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
