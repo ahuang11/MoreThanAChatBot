@@ -72,6 +72,7 @@ watch:
 nav:
     - Home: index.md
     - Level 1: 
+        - Overview: level1/overview
         - Providers: level1/providers
         - Models: level1/models
         - Gateways: level1/gateways
@@ -83,11 +84,11 @@ nav:
             - Using Claude: level1/Using_Claude_to_interpret_plots.md
             - Search using Perplexity: level1/Perplexity_for_research
     - Level 2:
-        - Overview: level2/index
+        - Overview: level2/overview
         - Cursor: level2/cursor
         - Copilot: level2/copilot
     - Level 3:
-        - Overview: level3/index
+        - Overview: level3/overview
         - LLM in R: level3/R_example
         - Deployment: level3/marvin_ai
         - Sentiment Analysis: level3/Sentiment_Analysis
