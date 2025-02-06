@@ -1,5 +1,11 @@
-# Level 1: AI-Powered Web Tools for Researchers
+# Level 1: Browser-Based AI Tools for Conservation Research
 
-[TOC]
+Discover how to leverage powerful AI tools directly in your web browser - no coding required. This level introduces you to leading AI assistants like ChatGPT, Claude, and DeepSeek that can transform your research workflow. Learn to:
 
-Discover how LLM providers like ChatGPT, Claude, and DeepSeek can streamline conservation research. Explore practical applications such as structured data extraction, document analysis, and exploratory research—no coding required. Learn how to integrate these tools into your workflow using browser-based solutions like Google Colab.
+- Extract structured data from research papers, field notes, and reports
+- Generate and refine research questions using AI-powered brainstorming
+- Analyze environmental data trends and patterns
+- Create clear scientific visualizations and explanations
+- Use Google Colab notebooks to combine AI assistance with basic data analysis
+
+Perfect for: Researchers new to AI tools who want to enhance their productivity without diving into coding.

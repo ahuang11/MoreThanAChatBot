@@ -1,5 +1,12 @@
-# Level 2: AI-Assisted Coding with Intelligent IDEs
+# Level 2: AI-Enhanced Development Environments
 
-[TOC]
+Take your research capabilities further with AI-powered coding tools that help you write better code faster. This level shows you how to use intelligent IDEs like Cursor to:
 
-Take your AI-powered research further with IDEs like Cursor. These tools enhance coding efficiency through automated code generation, debugging, and workflow optimization. Learn how to integrate AI into your development environment to refine data analysis, modeling, and automation processes.  
+- Accelerate code development with AI pair programming
+- Debug and optimize your analysis scripts automatically
+- Generate boilerplate code for common research tasks
+- Convert pseudocode into working programs
+- Access contextual help and documentation while coding
+- Integrate with platforms like Google Earth Engine for environmental analysis
+
+Perfect for: Researchers who code regularly and want to boost their development efficiency with AI assistance.
