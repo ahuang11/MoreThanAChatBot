@@ -41,7 +41,7 @@ You can access more features at [Google AI Studio](https://aistudio.google.com/p
 
 ## Save and Share Your Work
 
-After making your changes or completing your project, save your work. Gemini also offers options to share your project with colleagues or collaborators.
+After making your changes or completing your project, Gemini also offers options to share your project with colleagues or collaborators.
 
 <img width="828" alt="image" src="https://github.com/user-attachments/assets/dc76d3c2-965d-45ea-bec9-ef04d3e55e72" />
 
@@ -50,7 +50,7 @@ After making your changes or completing your project, save your work. Gemini als
 
 ## Conclusion
 
-Google Gemini is a robust and user-friendly platform that simplifies project management and AI integration. By following these steps, you can quickly get up to speed and begin leveraging its powerful tools. Be sure to use the provided screenshots to enhance your understanding and navigate the platform with ease.
+Google Gemini is a robust and user-friendly platform. By following these steps, you can quickly get up to speed and begin leveraging its powerful tools. Be sure to use the provided screenshots to enhance your understanding and navigate the platform with ease.
 
 Happy exploring and creating with Google Gemini!
 
