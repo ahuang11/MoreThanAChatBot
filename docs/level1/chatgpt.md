@@ -18,7 +18,7 @@ To use CHatGPT, create an account, and let's dive into some conservation example
 As a "Generative Pre-Trained Transformer" (the GPT part of ChatGPT), the more specific your prompt, the better.
 
 For example, the ***New York Times*** wrote about an example where ChatGPT outperformed doctors at diagnosing illness because ChatGPT used entire patient histories. <https://www.nytimes.com/2024/11/17/health/chatgpt-ai-doctors-diagnosis.html>  
-<img align="center" src="https://github.com/user-attachments/assets/c48ba71f-71bd-4fb2-a23d-9ff7ee5fa015">
+![image](https://github.com/user-attachments/assets/c48ba71f-71bd-4fb2-a23d-9ff7ee5fa015)
 
 Like in medicine, what if you want to use ecological data to make an important conservation decision?
 
