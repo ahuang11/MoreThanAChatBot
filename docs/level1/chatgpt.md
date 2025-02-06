@@ -26,8 +26,7 @@ Like in medicine, what if you want to use ecological data to make an important c
 
 ### Some examples
 - **Poor:**  
-  ![image](https://github.com/user-attachments/assets/7cf46749-7780-4938-8541-7a48caa749ca)
-  <img align="center" src="https://github.com/user-attachments/assets/7cf46749-7780-4938-8541-7a48caa749ca">  
+  <img align="center" src="https://github.com/user-attachments/assets/7cf46749-7780-4938-8541-7a48caa749ca" width="100%" height="100%">  
 
 - **Better:**  
   ![image](https://github.com/user-attachments/assets/7b3035a2-c228-4e4e-a5c9-cac52fa6897b)
