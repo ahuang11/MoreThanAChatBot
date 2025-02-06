@@ -20,13 +20,13 @@ Leading platform hosting transformer models, comprehensive benchmarks, and train
 
 ## Offline
 
-These offline LLM gateways provide users with the ability to run AI models locally, ensuring data privacy, improved performance, and the flexibility to work without an internet connection **after** the initial download.
+These offline LLM gateways provide users with the ability to run AI models locally, ensuring data privacy, and the flexibility to work without an internet connection **after** the initial download. However, these require a semi-capable machine to be performant--for example to run a 7B model, preferably a Mac Silicon with 8GB RAM or a Windows with an NVIDIA GPU.
 
 ### Anaconda AI Navigator
 
 Comprehensive tool for running and managing large language models locally. Provides access to over 200 curated LLMs, including popular models like Llama 3, Gemma, and Mistral. Features include local API server, built-in AI assistant, and offline capability, ensuring data privacy and security.
 
-**Download**: [Anaconda](https://www.anaconda.com/products/ai-navigator#downloads)
+**Download**: [AI Navigator](https://www.anaconda.com/products/ai-navigator#downloads)
 
 ### Ollama
 
@@ -42,6 +42,6 @@ Versatile software for exploring, downloading, and operating local LLMs like LLa
 
 ### WebLLM
 
-Browser-based LLM service specializing in client-side processing, enabling local model execution directly in web browsers without server dependencies. It allows users to run AI models offline once they've been loaded into the browser.
+Browser-based LLM service specializing in client-side processing, enabling local model execution directly in web browsers **without dependencies**. It allows users to run AI models offline once they've been loaded into the browser.
 
 **Access**: [WebLLM](https://chat.webllm.ai/)

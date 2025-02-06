@@ -1,5 +1,9 @@
 # LLM Models
 
+## Proprietary Models
+
+Proprietary models are developed and maintained by specific companies or organizations. They often come with advanced features, optimizations, and support, but may require a subscription or usage fees.
+
 !!! warning "Privacy Notice for Proprietary Models"
     All interactions with proprietary models are typically sent to and stored on company servers. Do not share sensitive data such as:
 
@@ -11,10 +15,6 @@
     - Authentication credentials
     
     For sensitive data, consider using [open source models](#open-source-models) that can be run locally instead.
-
-## Proprietary Models
-
-Proprietary models are developed and maintained by specific companies or organizations. They often come with advanced features, optimizations, and support, but may require a subscription or usage fees.
 
 ### GPT-4-Mini
 
