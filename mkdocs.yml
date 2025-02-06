@@ -79,9 +79,9 @@ nav:
         - Gateways: level1/gateways
         - Case Studies:
             - Prompting with ChatGPT: level1/chatgpt
-            - Gemini: level1/gemini
+            - Getting Started with Gemini: level1/gemini
             - Pitfalls of Gemini: level1/Pitfall_of_Gemini
-            - Deepseek: level1/deepseek
+            - Intro to Deepseek: level1/deepseek
             - Using Claude: level1/Using_Claude_to_interpret_plots.md
             - Search using Perplexity: level1/Perplexity_for_research
     - Level 2:
