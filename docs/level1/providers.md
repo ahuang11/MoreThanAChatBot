@@ -2,7 +2,7 @@
 
 The following details key large language model (LLM) providers and their capabilities.
 
-## OpenAI ChatGPT
+## [OpenAI ChatGPT](chatgpt.md)
 
 American AI pioneer known for the GPT series. Their GPT-3 (2020) used 175B parameters for high-quality text generation, while GPT-4 (2023) added multimodal capabilities. ChatGPT Enterprise (2023) introduced business-focused security and API customization. The 2024 GPT-4o update achieved 320ms latency for real-time voice interactions.
 
@@ -20,7 +20,7 @@ Models: [Gemini 1.5 Deep Research](../models/#gemini-15-deep-research), [Gemini 
 
 **Online Service**: [Gemini](https://gemini.google.com)
 
-## Anthropic Claude
+## [Anthropic Claude](Using_Claude_to_interpret_plots.md)
 
 Industry leader in ethical AI and reasoning capabilities. Claude 3 Opus (2024) surpassed GPT-4 on 87% of academic benchmarks and serves as the default coding assistant across major AI-powered IDEs. Offers 94% accuracy in medical scan interpretation and supports 50+ languages. Uses constitutional AI framework for ethical guidelines compliance.
 
@@ -44,7 +44,7 @@ Models: [Mistral Small 24B](../models/#mistral-small-24b)
 
 **Online Service**: [Mistral](https://chat.mistral.ai/)
 
-## Deepseek
+## [Deepseek](deepseek.md)
 
 Chinese AI startup achieving competitive performance through efficient architecture. Their R1 model, using mixture-of-experts design, required only $6M in training hardware (compared to Meta's $60M for Llama). Specializes in technical documentation, simulation, and complex modeling tasks.
 
