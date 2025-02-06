@@ -17,3 +17,13 @@ To use DeepSeek, create an account, and let's dive into some conservation exampl
 Imagine you're curious about differences in air quality around the country and want to know the outputs quickly. Here's an example of using DeepSeek:  
 ![image](https://github.com/user-attachments/assets/62829084-cabc-4d13-afb6-a2f012a2aa45)
 
+Here, DeepSeek couldn't give an output, but gave resources for where to look instead.
+
+## Prompts & Checking
+
+Check out the ChatGPT tab for a more in-depth view of prompting large language models and limitations.  
+
+DeepSeek correctly identifies that strawberry has 3 r letters in it (unlike ChatGPT).  
+![image](https://github.com/user-attachments/assets/1a418bcc-fe37-490c-ba7d-ed6c2b17a148)
+
+But remember, every model has limitations and is only as good as its input. Happy prompting!
