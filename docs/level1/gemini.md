@@ -20,7 +20,7 @@ Once on the homepage, click the **Sign In** button (usually located in the top-r
 
 ## 3. Explore the Dashboard
 
-After signing in, you'll see the Gemini dashboard. This is your command center, displaying:
+After signing in, you'll see the Gemini dashboard. This is your command center, displaying:  
 - **Recent Activity**: A quick view of recently modified files and tasks.  
 - **Empty Input Box**: Access to powerful AI by just starting to prompt.
 
@@ -42,9 +42,11 @@ Below is another screenshot showcasing the options:
 
 <img width="216" alt="image" src="https://github.com/user-attachments/assets/73341528-587a-44d4-a596-df4d9544a076" />
 
-### Additional Resource: Google AI Studio
+### Additional Resources: Google AI Studio and NotebookLM
 
-For even more sophisticated AI tasks, check out [Google AI Studio](https://aistudio.google.com/prompts/new_chat). This portal provides advanced capabilities for prompt engineering, GPT-based exploration, and more complex modeling scenarios.
+For even more sophisticated AI tasks, check out [Google AI Studio](https://aistudio.google.com/prompts/new_chat). This portal provides advanced capabilities for prompt engineering, GPT-based exploration, and more complex modeling scenarios.  
+
+[NotebookLM](https://notebooklm.google/) is a Google AI tool for note-taking and knowledge management. Upload your documents for NotebookLM to summarize, either in text or as a podcast! You can also chat with NotebookLM about your documents and it provides links to the relevant text with its answers.
 
 ---
 
