@@ -4,7 +4,7 @@ Large Language Models (LLMs) are powerful tools, but their effectiveness largely
 
 ## Chain of Thought Prompting
 
-Chain of Thought (CoT) prompting is a technique that encourages LLMs to explain their reasoning process. By simply asking the model to share its thought process or solve problems step by step, you can significantly improve the accuracy and reliability of responses. This approach is particularly effective for:\
+Chain of Thought (CoT) prompting is a technique that encourages LLMs to explain their reasoning process. By simply asking the model to share its thought process or solve problems step by step, you can significantly improve the accuracy and reliability of responses. This approach is particularly effective for:
 
 - Complex reasoning tasks
 - Mathematical problems
@@ -69,7 +69,7 @@ Better prompt: "You are an world-class Python developer who specializes in optim
 
 ## Iterative Prompt Refinement
 
-Instead of continuing a conversation when responses aren't ideal, refining the initial prompt often yields better results. This approach:
+Instead of continuing a conversation when responses aren't ideal, refining the initial prompt often yields better results. Look for an edit button (e.g., a pencil) next to chat bubbles to refine your prompt. This approach:
 
 - Maintains focus on the core question
 - Reduces context window usage
