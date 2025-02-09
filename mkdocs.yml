@@ -81,7 +81,7 @@ nav:
         - Case Studies:
             - Prompting with ChatGPT: level1/chatgpt
             - Getting Started with Gemini: level1/gemini
-            - Pitfalls of Gemini: level1/Pitfall_of_Gemini
+            - Pitfalls of AI Overviews: level1/Pitfall_of_Gemini
             - Intro to Deepseek: level1/deepseek
             - Using Claude: level1/Using_Claude_to_interpret_plots
             - Search using Perplexity: level1/Perplexity_for_research
